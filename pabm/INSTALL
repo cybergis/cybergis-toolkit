@@ -1,0 +1,16 @@
+==Dependency==
+IPM: IPM can be fetched from http://ipm-hpc.sourceforge.net/ . IPM depends on PAPI (http://icl.cs.utk.edu/papi/) to collect performance information. To install IPM with C++ support:
+# change ./configure line 500 to: #include <stdio.h>
+CC=mpicc CXX=mpicxx ./configure
+make
+make shared
+
+==Install==
+cmake CMakeLists.txt -DIPM_DIR=/path/to/ipm
+make
+
+==Test==
+ctest -V
+
+==mpirun==
+mpirun -np 4 PABM

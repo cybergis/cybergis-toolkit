@@ -1,0 +1,49 @@
+# compiled objects
+*.o
+*.lo
+*.loT
+*.la
+
+# compiled dynamic objects
+*.so
+
+# compiled static libraries
+*.a
+
+# emacs temp files
+*~
+.#*
+
+# program binary
+prasterblasterpio
+tests/tests
+tests/systemtest
+
+# autotools stuff
+configure
+config.*
+Makefile
+Makefile.in
+depcomp
+install-sh
+m4/*
+autom4te.cache
+aclocal.m4
+missing
+libtool
+ltmain.sh
+stamp-h1
+.deps
+.libs
+.dirstamp
+
+# test data
+tests/testdata/*
+
+# clang static analysis files
+clang_output_*
+
+# Generated documentation
+html/
+latex/
+

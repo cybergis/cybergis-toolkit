@@ -1,0 +1,29 @@
+Developers: Eric Shook (eshook2@illinois.edu)
+
+Other project members: Shaowen Wang (shaowen@illinois.edu) 
+
+Summary:  This code represents an implementation of a communication-aware framework for parallel spatially explicit agent-based models (SE-ABMs). Parallel SE-ABM must overcome the challenge of communication management for orchestrating many processor cores in parallel computing environments. This code synthesizes four interrelated components: agent grouping, rectilinear domain decomposition, a communication-aware load-balancing strategy, and entity proxies into a communication-aware framework and has been shown to scale to thousands of processor cores and support the simulation of billions of agents.  This code is a sample implementation to illustrate the implementation of a communication-aware framework without the complexities of a particular model.  Some dynamics have been included for example purposes, but further work would be needed to implement an agent-based model using this code.
+
+Execution: In a Linux environment the code can be compiled and executed using a 'make run' command, which by default will use mpicc and mpirun to compile and execute the code in parallel, respectively. 
+
+Compilation: The code can be compiled using a 'make' command.
+
+If IPM is also compiled, further simulation performance information can be extracted.
+IPM can be found here : http://ipm-hpc.sourceforge.net/userguide.html
+
+---
+
+agent.c   - Contains generic functions for agents
+env.c     - Contains generic functions for environment features
+lb.c      - Load balancing functions
+main.c    - Primary model initialization, iteration, and deletion
+migrate.c - Migrate agents (also referred to as agent (or proxy) transfer)
+mpi.c     - Inter-processor communication specific functions 
+sim.c     - Simulation initialization and update
+sugar.c   - Contains specific functions for an agent of type sug
+
+hdr.h           - Global structures and function definitions
+include/agent.h - Generic agent definition and proxy macros 
+include/sugar.h - Specific agent definition for sug agent
+include/util.h  - Utility macros
+ 
