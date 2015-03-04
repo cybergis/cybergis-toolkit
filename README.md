@@ -16,10 +16,11 @@ XSEDE-based evaluation and testing of software performance, scalability, and por
 3. [pRasterBlaster](http://cybergis.cigi.uiuc.edu/cyberGISwiki/doku.php/ct/prasterblaster). pRasterBlaster is a high-performance map reprojection software contributed by the Center of Excellence for Geospatial Information Science ([CEGIS](http://cegis.usgs.gov/)) within the [U.S. Geological Survey](http://usgs.gov/);
 4. [PGAP](http://cybergis.cigi.uiuc.edu/cyberGISwiki/doku.php/ct/pgap). PGAP is a scalable Parallel Genetical Algorithm (PGA) solver for the Generalized Assignment Problem (GAP). This code provides an efficient PGA implementation for combinatorial optimization problem-solving and scaled up to 262K processor cores on BlueWaters with marginal communcation cost.
 5. [Parallel Agent-Based Modeling (PABM)](http://cybergis.cigi.uiuc.edu/cyberGISwiki/doku.php/ct/pabm). PABM is an illustrative software for scalable spatially explicit agent-based modeling (ABM);
+
 ##Software Components Being Integrated
 
-ScalaGAHealth (Scalable Geographic Analytics for Health-Related Data)
-SpatialEvo (A high-performance evolutionary computing library for solving complex spatial optimization problems)
+1. ScalaGAHealth (Scalable Geographic Analytics for Health-Related Data)
+2. SpatialEvo (A high-performance evolutionary computing library for solving complex spatial optimization problems)
 
 ##Copyright and License
 
