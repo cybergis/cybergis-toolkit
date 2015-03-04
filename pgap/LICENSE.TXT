@@ -2,7 +2,7 @@ University of Illinois/NCSA Open Source License
 
 PGAP: A scalable Parallel Genetic Algorithm (PGA) solver for the Generalized Assignment Problem (GAP)
 
-Copyright (c) 2014 CyberInfrastructure and Geospatial Information Laboratory (CIGI), University of Illinois at Urbana-Champaign. All rights reserved.
+Copyright (c) 2015 CyberInfrastructure and Geospatial Information Laboratory (CIGI), University of Illinois at Urbana-Champaign. All rights reserved.
 
 Developed by: Yan Y. Liu <yanliu@illinois.edu>
 CyberInfrastructure and Geospatial Information Laboratory (CIGI)
