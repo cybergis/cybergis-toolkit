@@ -1,15 +1,19 @@
 CyberGIS Toolkit is a suite of loosely coupled open-source geospatial software components that provide computationally scalable spatial analysis and modeling capabilities enabled by advanced cyberinfrastructure.
 
-====CyberGIS Toolkit 0.6-alpha (08/17/2014)====
+====CyberGIS Toolkit 0.7-beta (09/15/2014)====
 ==Download==
 http://cybergis.cigi.uiuc.edu/cyberGISwiki/doku.php/ct/download
+https://github.com/cybergis/cybergis-toolkit
 
 ==Software Components==
 - PABM: an illustrative software for scalable spatially explicit agent-based modeling (ABM).
 - PGAP: a scalable parallel genetic algorithm (PGA) solver for the generalized assignment problem (GAP).
 - pRasterBlaster: a high-performance map reprojection software, jointly developed by CEGIS@USGS (http://cegis.usgs.gov) and CIGI (http://cigi.illinois.edu).
-- pPySAL: The Parallel PySAL library (https://github.com/pysal/pPysal) provides a set of scalable PySAL functions. Currently, pPySAL release includes the fisher-jenks algorithm.
+- SPTW: a parallel IO code for writing GeoTIFF file on a parallel file system.
+- pPySAL: The Parallel PySAL library (https://github.com/pysal/pPysal) provides a set of scalable PySAL functions. 
 - TauDEM: A high-performance software, developed by the Hydrology Research Group at the Utah State University (http://hydrology.usu.edu/taudem/taudem5/index.html), for watershed delineation and the extraction of hydrological information from topography.
+- gKDE: A multi-GPU code for data-intensive kernel density estimation (KDE). Spatial computational domain is first estimated for KDE. Then the study area is decompose into sub-regions through an adaptive partitioning approach. Each sub-region is processed by a GPU node. These GPU nodes are communicated through massage passing interface (MPI).
+- MapAlgebra: this package contains a parallel map algebra code using CUDA, MPI, and Parallel I/O. It is extracted from a parallel geospatial programming models training package.
 
 ====Software Environment====
 CyberGIS Toolkit has been tested to run in the following software environment:
