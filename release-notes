@@ -18,8 +18,8 @@ https://github.com/cybergis/cybergis-toolkit
 ====Software Environment====
 CyberGIS Toolkit has been tested to run in the following software environment:
 - Compilers: GNU, Intel
-- MPI: OpenMPI 1.4.3, mvapich2 1.5.1, Cray MPI
-- OS: CentOS 5.5 64bit
+- MPI: OpenMPI 1.4.3+, mvapich2 1.5.1+, Cray MPI
+- OS: CentOS 6.5 64bit
 
 Please refer to each component's README/INSTALL document on how to compile and install them.
 
