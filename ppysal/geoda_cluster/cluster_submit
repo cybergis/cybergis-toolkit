@@ -1,0 +1,11 @@
+#!/bin/bash
+#PBS -S /bin/bash
+#PBS -l nodes=4:ppn=8
+#PBS -N EnergyPlus
+#PBS -o $JOB_ID.out
+#PBS -e $JOB_ID.err
+#PBS -A James_EnergyPlus
+#PBS -l walltime=00:15:00
+use openmpi-1.6.4
+cd /home/srey1/pypar
+mpirun -np 4  python /home/srey1/pypar/examples/demo.py 1>output 2>error

@@ -1,0 +1,49 @@
+This version uses apply_async with a callback function.
+1024_lattice.shp required 0.138449192047 seconds.
+10000_lattice.shp required 0.144183158875 seconds.
+50176_lattice.shp required 0.631889104843 seconds.
+100489_lattice.shp required 1.89829111099 seconds.
+1000_poly.shp required 0.153282880783 seconds.
+10000_poly.shp required 0.390897989273 seconds.
+50000_poly.shp required 3.02166199684 seconds.
+100000_poly.shp required 6.20647096634 seconds.
+
+This version uses a joinable processing queue.
+1024_lattice.shp required 0.0399610996246 seconds.
+10000_lattice.shp required 0.128789186478 seconds.
+50176_lattice.shp required 0.867057800293 seconds.
+100489_lattice.shp required 6.08577108383 seconds.
+1000_poly.shp required 0.0882558822632 seconds.
+10000_poly.shp required 0.289046049118 seconds.
+50000_poly.shp required 1.96101808548 seconds.
+100000_poly.shp required 3.54104685783 seconds.
+
+This version uses a managed dictionary.
+1024_lattice.shp required 0.665867805481 seconds.
+10000_lattice.shp required 5.67729401588 seconds.
+50176_lattice.shp required 29.8130791187 seconds.
+100489_lattice.shp required 56.7208151817 seconds.
+1000_poly.shp required 0.910306930542 seconds.
+10000_poly.shp required 8.06206798553 seconds.
+50000_poly.shp required 42.0239548683 seconds.
+100000_poly.shp required 81.9218261242 seconds.
+
+This version uses map_async with a callback function.
+1024_lattice.shp required 0.143948078156 seconds.
+10000_lattice.shp required 0.248980045319 seconds.
+50176_lattice.shp required 1.29725503922 seconds.
+100489_lattice.shp required 2.70343995094 seconds.
+1000_poly.shp required 0.157305955887 seconds.
+10000_poly.shp required 0.964159011841 seconds.
+50000_poly.shp required 5.82399892807 seconds.
+100000_poly.shp required 8.94590497017 seconds.
+
+This version runs in serial.
+1024_lattice.shp required 0.0201768875122 seconds.
+10000_lattice.shp required 0.318511009216 seconds.
+50176_lattice.shp required 1.54988288879 seconds.
+100489_lattice.shp required 3.18936395645 seconds.
+1000_poly.shp required 0.0256080627441 seconds.
+10000_poly.shp required 0.280189990997 seconds.
+50000_poly.shp required 2.4539539814 seconds.
+100000_poly.shp required 4.98008990288 seconds.

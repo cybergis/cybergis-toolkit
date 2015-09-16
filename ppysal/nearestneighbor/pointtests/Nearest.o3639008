@@ -1,0 +1,12 @@
+Using 32 cores for 640 points
+Data generation took 9.3936920166e-05 seconds
+Global y-axis sort took 1.05884003639 seconds
+NN Search took 0.0110700130463 seconds
+Global sort on the x-axis took 0.00988698005676 seconds
+NN Search took 0.00290107727051 seconds
+Iij and Cij computation took 0.106383800507 seconds
+Cij sort and transmit took 0.00443816184998 seconds
+Local reduction and sort took 0.0119860172272 seconds
+Ci computation and gather took 0.0276789665222 seconds
+Final sort took 0.00105595588684 seconds
+Total 1.23433494568

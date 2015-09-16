@@ -1,0 +1,9 @@
+/var/spool/torque/mom_priv/jobs/3604813.systemimager.magic.SC: line 1: import: command not found
+/var/spool/torque/mom_priv/jobs/3604813.systemimager.magic.SC: line 2: import: command not found
+/var/spool/torque/mom_priv/jobs/3604813.systemimager.magic.SC: line 3: import: command not found
+/var/spool/torque/mom_priv/jobs/3604813.systemimager.magic.SC: line 5: import: command not found
+/var/spool/torque/mom_priv/jobs/3604813.systemimager.magic.SC: line 6: from: command not found
+/var/spool/torque/mom_priv/jobs/3604813.systemimager.magic.SC: line 8: import: command not found
+/var/spool/torque/mom_priv/jobs/3604813.systemimager.magic.SC: line 9: from: command not found
+/var/spool/torque/mom_priv/jobs/3604813.systemimager.magic.SC: line 11: syntax error near unexpected token `('
+/var/spool/torque/mom_priv/jobs/3604813.systemimager.magic.SC: line 11: `class IFS(mp.Process):'

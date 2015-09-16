@@ -1,0 +1,18 @@
+###ReadMe###
+
+The `test1` files run a super simple test on each of the nodes of the GeoDa Cluster.  The process is:
+
+1. Use `pbsnodes -a` to get a list of the nodes.
+2. Parse the list and get only those nodes that report up.
+3. Explicitly assign an 8 core job to each node independently.
+4. The job:
+    i. imports numpy and pysal
+    ii. version checks both
+    iii. confirms that 8 cores are reporting
+    iv. reports maximum wall time
+5. The mother then writes to a log fil.
+6. A parsing script checks to see if nodes never responded or runtime was too long (single tail, z-test).
+
+To run (might need to chmod +x):
+
+./test1.sh

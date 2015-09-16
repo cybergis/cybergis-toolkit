@@ -1,0 +1,3207 @@
+I have 8 cores in a shared memory space
+My soln space looks like: [ 9.  9.  9.  9.  9.  9.  9.  9.]
+I am manager 0 and I initially had 9.0 regions.  I now have 9.0 regions.
+The local solutions on rank 1 are inferior to the global best p. Updating...
+My soln space looks like: [ 9.  9.  9.  9.  9.  9.  9.  9.]
+I am manager 1 and I initially had 8.0 regions.  I now have 9.0 regions.
+Manager 1.
+             Initial Best: 3.68115115166 
+             Local Search Best: 3.62345862389
+             My solution looks like:
+    [[ 7.  4.  4.  4.  5.  5.  5.  5.]
+ [ 7.  4.  4.  4.  9.  5.  5.  5.]
+ [ 7.  7.  7.  4.  9.  1.  1.  1.]
+ [ 8.  8.  7.  7.  9.  1.  1.  1.]
+ [ 8.  8.  9.  9.  9.  6.  6.  1.]
+ [ 8.  8.  2.  9.  9.  6.  6.  6.]
+ [ 8.  2.  2.  2.  6.  6.  3.  3.]
+ [ 2.  2.  2.  3.  3.  3.  3.  3.]]
+    
+Manager 0.
+             Initial Best: 3.64436912537 
+             Local Search Best: 3.64436912537
+             My solution looks like:
+    [[ 7.  4.  4.  4.  5.  5.  5.  5.]
+ [ 7.  4.  4.  4.  5.  5.  5.  1.]
+ [ 7.  7.  7.  4.  9.  1.  5.  1.]
+ [ 8.  8.  7.  7.  9.  1.  1.  1.]
+ [ 8.  8.  9.  9.  9.  6.  6.  1.]
+ [ 8.  8.  2.  9.  9.  6.  6.  6.]
+ [ 8.  2.  2.  2.  6.  6.  3.  3.]
+ [ 2.  2.  2.  3.  3.  3.  3.  3.]]
+    
+I have 8 cores in a shared memory space
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 0 and I initially had 8.0 regions.  I now have 8.0 regions.
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 1 and I initially had 8.0 regions.  I now have 8.0 regions.
+Manager 0.
+             Initial Best: 3.85685801506 
+             Local Search Best: 3.10265827179
+             My solution looks like:
+    [[ 8.  8.  8.  7.  4.  4.  4.  4.]
+ [ 8.  7.  7.  7.  7.  4.  4.  4.]
+ [ 8.  3.  3.  7.  7.  7.  5.  4.]
+ [ 8.  8.  3.  3.  3.  3.  5.  5.]
+ [ 8.  2.  2.  2.  2.  3.  5.  5.]
+ [ 1.  2.  1.  2.  2.  3.  5.  6.]
+ [ 1.  1.  1.  1.  3.  3.  5.  6.]
+ [ 1.  6.  6.  6.  6.  6.  6.  6.]]
+    
+I have 8 cores in a shared memory space
+Manager 1.
+             Initial Best: 3.33418250084 
+             Local Search Best: 2.81104421616
+             My solution looks like:
+    [[ 8.  8.  8.  8.  8.  8.  8.  5.]
+ [ 3.  2.  2.  2.  2.  5.  5.  5.]
+ [ 3.  3.  3.  2.  2.  2.  7.  5.]
+ [ 3.  3.  7.  7.  7.  7.  7.  5.]
+ [ 3.  1.  1.  1.  1.  7.  7.  5.]
+ [ 1.  1.  6.  1.  4.  7.  4.  5.]
+ [ 1.  6.  6.  6.  4.  4.  4.  5.]
+ [ 1.  6.  6.  6.  4.  4.  4.  5.]]
+    
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 0 and I initially had 8.0 regions.  I now have 8.0 regions.
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 1 and I initially had 8.0 regions.  I now have 8.0 regions.
+Manager 0.
+             Initial Best: 4.01592254639 
+             Local Search Best: 3.1955640316
+             My solution looks like:
+    [[ 6.  6.  6.  4.  4.  4.  4.  2.]
+ [ 6.  4.  4.  4.  4.  2.  2.  2.]
+ [ 6.  6.  6.  4.  4.  1.  2.  2.]
+ [ 3.  3.  6.  6.  1.  1.  1.  2.]
+ [ 3.  3.  3.  1.  1.  8.  1.  1.]
+ [ 3.  3.  7.  1.  7.  8.  8.  8.]
+ [ 5.  5.  7.  7.  7.  7.  7.  8.]
+ [ 5.  5.  5.  5.  5.  7.  8.  8.]]
+    
+I have 8 cores in a shared memory space
+Manager 1.
+             Initial Best: 3.50804710388 
+             Local Search Best: 3.01564502716
+             My solution looks like:
+    [[ 2.  2.  2.  1.  1.  1.  1.  3.]
+ [ 2.  1.  1.  1.  1.  3.  3.  3.]
+ [ 2.  6.  6.  1.  1.  1.  3.  3.]
+ [ 2.  2.  6.  6.  6.  6.  6.  3.]
+ [ 2.  4.  4.  4.  4.  5.  5.  5.]
+ [ 4.  4.  4.  4.  7.  5.  7.  5.]
+ [ 8.  8.  4.  8.  7.  7.  7.  5.]
+ [ 8.  8.  8.  8.  7.  7.  7.  5.]]
+    
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 0 and I initially had 8.0 regions.  I now have 8.0 regions.
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 1 and I initially had 8.0 regions.  I now have 8.0 regions.
+Manager 0.
+             Initial Best: 3.69608211517 
+             Local Search Best: 3.21278977394
+             My solution looks like:
+    [[ 2.  2.  2.  8.  8.  8.  8.  7.]
+ [ 2.  2.  2.  8.  8.  7.  7.  7.]
+ [ 1.  2.  1.  8.  3.  3.  3.  7.]
+ [ 1.  1.  1.  1.  3.  7.  3.  7.]
+ [ 1.  6.  1.  3.  3.  7.  7.  7.]
+ [ 6.  6.  1.  4.  4.  5.  5.  5.]
+ [ 6.  6.  6.  4.  5.  5.  4.  5.]
+ [ 6.  4.  4.  4.  4.  4.  4.  5.]]
+    
+I have 8 cores in a shared memory space
+Manager 1.
+             Initial Best: 3.62887597084 
+             Local Search Best: 3.03762412071
+             My solution looks like:
+    [[ 1.  3.  3.  3.  4.  4.  4.  8.]
+ [ 1.  3.  3.  3.  4.  8.  8.  8.]
+ [ 1.  1.  1.  3.  4.  4.  8.  8.]
+ [ 1.  1.  1.  1.  4.  2.  8.  8.]
+ [ 1.  5.  5.  5.  5.  2.  8.  8.]
+ [ 5.  5.  6.  6.  6.  2.  2.  2.]
+ [ 5.  6.  6.  7.  6.  7.  7.  2.]
+ [ 5.  6.  6.  7.  7.  7.  7.  2.]]
+    
+The local solutions on rank 0 are inferior to the global best p. Updating...
+My soln space looks like: [ 9.  9.  9.  9.  9.  9.  9.  9.]
+I am manager 0 and I initially had 8.0 regions.  I now have 9.0 regions.
+My soln space looks like: [ 9.  9.  9.  9.  9.  9.  9.  9.]
+I am manager 1 and I initially had 9.0 regions.  I now have 9.0 regions.
+Manager 0.
+             Initial Best: 3.96083331108 
+             Local Search Best: 3.25525259972
+             My solution looks like:
+    [[ 2.  2.  2.  2.  1.  1.  1.  6.]
+ [ 2.  4.  2.  1.  1.  6.  6.  6.]
+ [ 4.  4.  2.  1.  1.  1.  6.  6.]
+ [ 4.  4.  4.  8.  8.  8.  8.  6.]
+ [ 4.  5.  5.  5.  5.  3.  8.  8.]
+ [ 5.  5.  7.  5.  3.  3.  8.  9.]
+ [ 7.  7.  7.  7.  3.  9.  9.  9.]
+ [ 7.  7.  3.  3.  3.  9.  9.  9.]]
+    
+I have 8 cores in a shared memory space
+Manager 1.
+             Initial Best: 3.91645121574 
+             Local Search Best: 3.66580533981
+             My solution looks like:
+    [[ 2.  2.  2.  2.  1.  1.  1.  6.]
+ [ 4.  4.  2.  1.  1.  6.  6.  6.]
+ [ 4.  4.  2.  2.  1.  1.  6.  6.]
+ [ 4.  4.  8.  8.  8.  8.  8.  6.]
+ [ 4.  5.  5.  5.  5.  3.  8.  8.]
+ [ 5.  5.  7.  7.  7.  3.  9.  9.]
+ [ 7.  5.  7.  3.  3.  3.  9.  9.]
+ [ 7.  7.  7.  3.  3.  9.  9.  9.]]
+    
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 0 and I initially had 8.0 regions.  I now have 8.0 regions.
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 1 and I initially had 8.0 regions.  I now have 8.0 regions.
+Manager 0.
+             Initial Best: 3.75309062004 
+             Local Search Best: 3.22269964218
+             My solution looks like:
+    [[ 2.  7.  7.  7.  7.  7.  7.  1.]
+ [ 2.  7.  6.  6.  6.  1.  1.  1.]
+ [ 2.  2.  2.  6.  6.  1.  4.  4.]
+ [ 6.  6.  2.  2.  6.  1.  4.  4.]
+ [ 3.  6.  6.  6.  6.  1.  4.  4.]
+ [ 3.  3.  3.  6.  5.  1.  8.  4.]
+ [ 5.  3.  3.  3.  5.  8.  8.  8.]
+ [ 5.  5.  5.  5.  5.  8.  8.  8.]]
+    
+I have 8 cores in a shared memory space
+Manager 1.
+             Initial Best: 3.69381856918 
+             Local Search Best: 3.22366738319
+             My solution looks like:
+    [[ 1.  1.  1.  8.  2.  2.  2.  2.]
+ [ 1.  8.  8.  8.  8.  7.  7.  2.]
+ [ 1.  1.  1.  8.  8.  8.  7.  2.]
+ [ 6.  6.  6.  6.  6.  7.  7.  2.]
+ [ 6.  3.  3.  3.  3.  7.  2.  2.]
+ [ 6.  3.  3.  3.  5.  7.  7.  7.]
+ [ 4.  4.  3.  4.  5.  5.  5.  7.]
+ [ 4.  4.  4.  4.  5.  5.  5.  7.]]
+    
+The local solutions on rank 0 are inferior to the global best p. Updating...
+My soln space looks like: [ 9.  9.  9.  9.  9.  9.  9.  9.]
+I am manager 0 and I initially had 8.0 regions.  I now have 9.0 regions.
+My soln space looks like: [ 9.  9.  9.  9.  9.  9.  9.  9.]
+I am manager 1 and I initially had 9.0 regions.  I now have 9.0 regions.
+Manager 0.
+             Initial Best: 3.96161007881 
+             Local Search Best: 3.46681952477
+             My solution looks like:
+    [[ 4.  4.  4.  4.  4.  1.  1.  9.]
+ [ 4.  5.  5.  5.  5.  1.  9.  9.]
+ [ 4.  5.  7.  5.  1.  1.  1.  9.]
+ [ 8.  5.  7.  7.  7.  7.  1.  9.]
+ [ 8.  8.  8.  8.  8.  7.  6.  9.]
+ [ 8.  2.  3.  3.  3.  7.  6.  9.]
+ [ 2.  2.  2.  3.  3.  3.  6.  9.]
+ [ 2.  2.  2.  3.  6.  6.  6.  6.]]
+    
+I have 8 cores in a shared memory space
+Manager 1.
+             Initial Best: 4.04248857498 
+             Local Search Best: 3.04795598984
+             My solution looks like:
+    [[ 4.  4.  4.  7.  7.  7.  7.  3.]
+ [ 4.  4.  4.  4.  7.  3.  3.  3.]
+ [ 8.  8.  8.  8.  7.  7.  3.  5.]
+ [ 9.  8.  8.  8.  1.  3.  3.  5.]
+ [ 9.  1.  1.  1.  1.  5.  5.  5.]
+ [ 9.  9.  2.  1.  1.  5.  6.  5.]
+ [ 9.  2.  2.  2.  2.  6.  6.  5.]
+ [ 9.  9.  2.  2.  6.  6.  6.  6.]]
+    
+The local solutions on rank 0 are inferior to the global best p. Updating...
+My soln space looks like: [ 9.  9.  9.  9.  9.  9.  9.  9.]
+I am manager 0 and I initially had 8.0 regions.  I now have 9.0 regions.
+My soln space looks like: [ 9.  9.  9.  9.  9.  9.  9.  9.]
+I am manager 1 and I initially had 9.0 regions.  I now have 9.0 regions.
+Manager 1.
+             Initial Best: 3.70803284645 
+             Local Search Best: 3.70803284645
+             My solution looks like:
+    [[ 3.  3.  3.  4.  4.  4.  4.  4.]
+ [ 3.  3.  3.  6.  6.  2.  4.  7.]
+ [ 3.  3.  6.  6.  5.  2.  4.  7.]
+ [ 8.  6.  6.  6.  5.  2.  2.  7.]
+ [ 8.  8.  5.  5.  5.  2.  2.  7.]
+ [ 8.  8.  8.  5.  9.  9.  2.  7.]
+ [ 1.  1.  8.  5.  9.  9.  9.  7.]
+ [ 1.  1.  1.  1.  1.  9.  9.  7.]]
+    
+Manager 0.
+             Initial Best: 3.71208286285 
+             Local Search Best: 3.71208286285
+             My solution looks like:
+    [[ 3.  3.  4.  4.  4.  4.  4.  4.]
+ [ 3.  3.  3.  6.  6.  2.  4.  7.]
+ [ 3.  3.  6.  6.  5.  2.  4.  7.]
+ [ 8.  6.  6.  6.  5.  2.  2.  7.]
+ [ 8.  8.  5.  5.  5.  2.  2.  7.]
+ [ 8.  8.  8.  5.  9.  9.  2.  7.]
+ [ 1.  1.  8.  5.  9.  9.  9.  7.]
+ [ 1.  1.  1.  1.  1.  9.  9.  7.]]
+    
+I have 8 cores in a shared memory space
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 0 and I initially had 8.0 regions.  I now have 8.0 regions.
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 1 and I initially had 8.0 regions.  I now have 8.0 regions.
+Manager 1.
+             Initial Best: 3.94592118263 
+             Local Search Best: 2.79149389267
+             My solution looks like:
+    [[ 1.  8.  8.  8.  2.  2.  2.  2.]
+ [ 1.  8.  8.  8.  8.  2.  2.  2.]
+ [ 1.  1.  1.  8.  3.  3.  3.  2.]
+ [ 7.  7.  1.  1.  3.  6.  3.  2.]
+ [ 4.  7.  7.  7.  7.  6.  3.  3.]
+ [ 4.  4.  4.  7.  5.  6.  6.  6.]
+ [ 4.  4.  5.  5.  5.  5.  5.  6.]
+ [ 4.  4.  4.  4.  5.  5.  5.  6.]]
+    
+Manager 0.
+             Initial Best: 3.9696855545 
+             Local Search Best: 2.61672186852
+             My solution looks like:
+    [[ 7.  7.  7.  3.  3.  3.  3.  2.]
+ [ 7.  3.  3.  3.  3.  2.  2.  2.]
+ [ 7.  7.  4.  3.  3.  3.  2.  2.]
+ [ 5.  7.  4.  4.  4.  4.  1.  2.]
+ [ 5.  5.  5.  5.  5.  4.  1.  1.]
+ [ 5.  5.  8.  5.  6.  4.  1.  1.]
+ [ 5.  8.  8.  8.  6.  6.  6.  1.]
+ [ 5.  8.  8.  8.  6.  6.  6.  1.]]
+    
+I have 8 cores in a shared memory space
+The local solutions on rank 0 are inferior to the global best p. Updating...
+My soln space looks like: [ 9.  9.  9.  9.  9.  9.  9.  9.]
+I am manager 0 and I initially had 8.0 regions.  I now have 9.0 regions.
+My soln space looks like: [ 9.  9.  9.  9.  9.  9.  9.  9.]
+I am manager 1 and I initially had 9.0 regions.  I now have 9.0 regions.
+Manager 0.
+             Initial Best: 3.62645125389 
+             Local Search Best: 3.62645125389
+             My solution looks like:
+    [[ 7.  7.  5.  5.  6.  6.  6.  6.]
+ [ 7.  5.  5.  5.  5.  9.  6.  6.]
+ [ 7.  7.  7.  5.  9.  9.  3.  6.]
+ [ 4.  2.  7.  9.  9.  9.  3.  1.]
+ [ 4.  2.  9.  9.  8.  3.  3.  1.]
+ [ 4.  2.  2.  2.  8.  3.  1.  1.]
+ [ 4.  2.  2.  8.  8.  3.  3.  1.]
+ [ 4.  4.  4.  8.  8.  8.  1.  1.]]
+    
+I have 8 cores in a shared memory space
+Manager 1.
+             Initial Best: 3.62645125389 
+             Local Search Best: 3.57693076134
+             My solution looks like:
+    [[ 6.  6.  6.  9.  9.  9.  9.  1.]
+ [ 6.  6.  6.  9.  9.  1.  1.  1.]
+ [ 6.  8.  2.  2.  9.  2.  1.  1.]
+ [ 8.  8.  8.  2.  2.  2.  2.  1.]
+ [ 8.  8.  8.  3.  3.  7.  7.  7.]
+ [ 3.  3.  3.  3.  5.  7.  5.  7.]
+ [ 4.  4.  3.  4.  5.  5.  5.  7.]
+ [ 4.  4.  4.  4.  5.  5.  5.  7.]]
+    
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 0 and I initially had 8.0 regions.  I now have 8.0 regions.
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 1 and I initially had 8.0 regions.  I now have 8.0 regions.
+Manager 1.
+             Initial Best: 3.74712085724 
+             Local Search Best: 2.74926972389
+             My solution looks like:
+    [[ 5.  5.  5.  5.  5.  5.  5.  4.]
+ [ 5.  1.  2.  2.  2.  4.  4.  4.]
+ [ 1.  1.  1.  2.  2.  2.  4.  4.]
+ [ 7.  1.  1.  1.  2.  6.  6.  4.]
+ [ 7.  7.  7.  7.  7.  6.  6.  6.]
+ [ 7.  7.  8.  7.  3.  6.  3.  6.]
+ [ 8.  8.  8.  8.  3.  3.  3.  6.]
+ [ 8.  8.  8.  8.  3.  3.  3.  6.]]
+    
+Manager 0.
+             Initial Best: 3.63128256798 
+             Local Search Best: 3.00227308273
+             My solution looks like:
+    [[ 1.  1.  1.  6.  8.  8.  8.  8.]
+ [ 1.  6.  6.  6.  6.  5.  5.  8.]
+ [ 1.  1.  5.  6.  6.  5.  5.  8.]
+ [ 3.  1.  5.  5.  5.  5.  8.  8.]
+ [ 3.  3.  3.  3.  3.  4.  4.  8.]
+ [ 3.  3.  2.  3.  7.  4.  4.  4.]
+ [ 2.  2.  2.  2.  7.  7.  7.  4.]
+ [ 2.  2.  2.  2.  7.  7.  7.  4.]]
+    
+I have 8 cores in a shared memory space
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 0 and I initially had 8.0 regions.  I now have 8.0 regions.
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 1 and I initially had 8.0 regions.  I now have 8.0 regions.
+Manager 0.
+             Initial Best: 3.94941139221 
+             Local Search Best: 2.61008620262
+             My solution looks like:
+    [[ 7.  4.  4.  4.  4.  4.  4.  5.]
+ [ 7.  4.  1.  1.  1.  5.  5.  5.]
+ [ 7.  7.  7.  1.  1.  1.  5.  5.]
+ [ 6.  6.  7.  7.  1.  1.  1.  5.]
+ [ 2.  6.  6.  6.  6.  3.  5.  5.]
+ [ 2.  6.  2.  6.  3.  3.  3.  3.]
+ [ 2.  2.  2.  2.  3.  8.  8.  3.]
+ [ 8.  8.  8.  8.  8.  8.  8.  3.]]
+    
+I have 8 cores in a shared memory space
+Manager 1.
+             Initial Best: 3.77410769463 
+             Local Search Best: 3.16815924644
+             My solution looks like:
+    [[ 7.  7.  6.  6.  6.  6.  6.  6.]
+ [ 5.  7.  6.  3.  3.  8.  8.  8.]
+ [ 5.  7.  7.  3.  3.  3.  8.  1.]
+ [ 5.  5.  7.  7.  3.  8.  8.  1.]
+ [ 5.  3.  3.  3.  3.  8.  1.  1.]
+ [ 5.  3.  4.  3.  4.  8.  1.  1.]
+ [ 5.  5.  4.  4.  4.  2.  2.  1.]
+ [ 5.  4.  4.  2.  2.  2.  2.  2.]]
+    
+The local solutions on rank 1 are inferior to the global best p. Updating...
+My soln space looks like: [ 9.  9.  9.  9.  9.  9.  9.  9.]
+I am manager 0 and I initially had 9.0 regions.  I now have 9.0 regions.
+My soln space looks like: [ 9.  9.  9.  9.  9.  9.  9.  9.]
+I am manager 1 and I initially had 8.0 regions.  I now have 9.0 regions.
+Manager 1.
+             Initial Best: 3.92304420471 
+             Local Search Best: 3.76041674614
+             My solution looks like:
+    [[ 4.  4.  4.  4.  3.  3.  3.  3.]
+ [ 4.  4.  4.  4.  3.  3.  6.  6.]
+ [ 7.  7.  7.  7.  3.  1.  6.  6.]
+ [ 8.  7.  7.  7.  9.  1.  6.  6.]
+ [ 8.  9.  9.  9.  9.  1.  1.  6.]
+ [ 8.  8.  2.  9.  9.  1.  1.  1.]
+ [ 8.  8.  2.  2.  2.  5.  5.  5.]
+ [ 8.  2.  2.  2.  5.  5.  5.  5.]]
+    
+Manager 0.
+             Initial Best: 3.92304420471 
+             Local Search Best: 3.76041674614
+             My solution looks like:
+    [[ 4.  4.  4.  4.  3.  3.  3.  3.]
+ [ 4.  4.  4.  4.  3.  3.  6.  6.]
+ [ 7.  7.  7.  7.  3.  1.  6.  6.]
+ [ 8.  7.  7.  7.  9.  1.  6.  6.]
+ [ 8.  9.  9.  9.  9.  1.  1.  6.]
+ [ 8.  8.  2.  9.  9.  1.  1.  1.]
+ [ 8.  8.  2.  2.  2.  5.  5.  5.]
+ [ 8.  2.  2.  2.  5.  5.  5.  5.]]
+    
+I have 8 cores in a shared memory space
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 0 and I initially had 8.0 regions.  I now have 8.0 regions.
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 1 and I initially had 8.0 regions.  I now have 8.0 regions.
+Manager 1.
+             Initial Best: 4.07424736023 
+             Local Search Best: 3.34014487267
+             My solution looks like:
+    [[ 2.  2.  2.  2.  2.  2.  2.  4.]
+ [ 2.  2.  7.  7.  7.  4.  4.  4.]
+ [ 1.  1.  1.  1.  7.  4.  4.  6.]
+ [ 7.  1.  1.  1.  7.  4.  6.  6.]
+ [ 7.  7.  7.  7.  7.  4.  6.  6.]
+ [ 8.  8.  3.  3.  3.  4.  5.  6.]
+ [ 8.  8.  8.  3.  3.  5.  5.  6.]
+ [ 8.  8.  3.  3.  5.  5.  5.  5.]]
+    
+Manager 0.
+             Initial Best: 3.87567067146 
+             Local Search Best: 3.32903718948
+             My solution looks like:
+    [[ 4.  4.  4.  4.  4.  4.  4.  2.]
+ [ 8.  4.  4.  4.  4.  2.  2.  2.]
+ [ 8.  8.  8.  4.  4.  7.  2.  2.]
+ [ 8.  8.  7.  7.  7.  7.  1.  2.]
+ [ 8.  5.  7.  1.  1.  1.  1.  1.]
+ [ 5.  5.  7.  1.  1.  3.  3.  3.]
+ [ 5.  5.  5.  6.  3.  3.  6.  3.]
+ [ 5.  6.  6.  6.  6.  6.  6.  3.]]
+    
+I have 8 cores in a shared memory space
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 0 and I initially had 8.0 regions.  I now have 8.0 regions.
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 1 and I initially had 8.0 regions.  I now have 8.0 regions.
+Manager 1.
+             Initial Best: 3.97226953506 
+             Local Search Best: 2.70029783249
+             My solution looks like:
+    [[ 3.  3.  3.  3.  7.  7.  7.  5.]
+ [ 3.  3.  3.  7.  7.  5.  5.  5.]
+ [ 8.  8.  8.  7.  7.  7.  5.  4.]
+ [ 8.  8.  8.  8.  7.  5.  5.  4.]
+ [ 8.  1.  1.  1.  1.  5.  4.  4.]
+ [ 1.  1.  2.  1.  6.  5.  6.  4.]
+ [ 2.  2.  2.  2.  6.  6.  6.  4.]
+ [ 2.  2.  2.  2.  6.  6.  6.  4.]]
+    
+Manager 0.
+             Initial Best: 3.58752536774 
+             Local Search Best: 2.80502915382
+             My solution looks like:
+    [[ 6.  6.  6.  3.  3.  3.  3.  4.]
+ [ 6.  6.  6.  3.  3.  4.  4.  4.]
+ [ 6.  7.  7.  3.  3.  3.  4.  4.]
+ [ 5.  5.  7.  7.  7.  7.  8.  4.]
+ [ 5.  5.  5.  5.  5.  7.  8.  8.]
+ [ 5.  5.  2.  5.  1.  7.  8.  8.]
+ [ 2.  2.  2.  2.  1.  1.  1.  8.]
+ [ 2.  2.  2.  2.  1.  1.  1.  8.]]
+    
+I have 8 cores in a shared memory space
+The local solutions on rank 0 are inferior to the global best p. Updating...
+My soln space looks like: [ 9.  9.  9.  9.  9.  9.  9.  9.]
+I am manager 0 and I initially had 8.0 regions.  I now have 9.0 regions.
+My soln space looks like: [ 9.  9.  9.  9.  9.  9.  9.  9.]
+I am manager 1 and I initially had 9.0 regions.  I now have 9.0 regions.
+Manager 1.
+             Initial Best: 3.90911364555 
+             Local Search Best: 3.563829422
+             My solution looks like:
+    [[ 8.  8.  8.  8.  4.  4.  4.  4.]
+ [ 5.  5.  8.  8.  8.  6.  6.  4.]
+ [ 5.  5.  5.  2.  2.  2.  6.  4.]
+ [ 5.  2.  2.  2.  2.  6.  6.  4.]
+ [ 5.  3.  3.  3.  3.  6.  6.  1.]
+ [ 3.  3.  9.  3.  9.  6.  1.  1.]
+ [ 7.  7.  9.  9.  9.  9.  9.  1.]
+ [ 7.  7.  7.  7.  7.  1.  1.  1.]]
+    
+Manager 0.
+             Initial Best: 3.90911364555 
+             Local Search Best: 3.40405583382
+             My solution looks like:
+    [[ 9.  9.  8.  8.  7.  7.  7.  7.]
+ [ 9.  8.  8.  8.  8.  7.  7.  2.]
+ [ 9.  9.  9.  8.  4.  4.  7.  2.]
+ [ 3.  3.  9.  4.  4.  2.  2.  2.]
+ [ 6.  3.  3.  3.  4.  1.  1.  2.]
+ [ 6.  3.  5.  3.  4.  1.  1.  2.]
+ [ 6.  6.  5.  5.  4.  5.  1.  1.]
+ [ 6.  6.  6.  5.  5.  5.  5.  1.]]
+    
+I have 8 cores in a shared memory space
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 0 and I initially had 8.0 regions.  I now have 8.0 regions.
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 1 and I initially had 8.0 regions.  I now have 8.0 regions.
+Manager 0.
+             Initial Best: 3.81098532677 
+             Local Search Best: 2.68417644501
+             My solution looks like:
+    [[ 3.  3.  3.  6.  6.  6.  6.  4.]
+ [ 3.  3.  3.  6.  6.  4.  4.  4.]
+ [ 5.  5.  3.  6.  6.  6.  2.  4.]
+ [ 7.  5.  5.  5.  5.  5.  2.  4.]
+ [ 7.  1.  1.  1.  1.  5.  2.  4.]
+ [ 7.  1.  7.  1.  1.  5.  2.  4.]
+ [ 7.  7.  7.  8.  8.  8.  2.  4.]
+ [ 7.  8.  8.  8.  8.  2.  2.  4.]]
+    
+I have 8 cores in a shared memory space
+Manager 1.
+             Initial Best: 3.94195008278 
+             Local Search Best: 3.3999838829
+             My solution looks like:
+    [[ 5.  5.  1.  2.  2.  2.  2.  6.]
+ [ 5.  5.  1.  1.  2.  6.  6.  6.]
+ [ 5.  5.  1.  1.  2.  2.  6.  6.]
+ [ 4.  5.  1.  1.  8.  3.  6.  6.]
+ [ 4.  8.  8.  8.  8.  3.  6.  6.]
+ [ 4.  4.  4.  8.  8.  3.  3.  3.]
+ [ 4.  7.  4.  7.  3.  3.  7.  3.]
+ [ 4.  7.  7.  7.  7.  7.  7.  3.]]
+    
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 0 and I initially had 8.0 regions.  I now have 8.0 regions.
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 1 and I initially had 8.0 regions.  I now have 8.0 regions.
+Manager 1.
+             Initial Best: 3.65756034851 
+             Local Search Best: 2.8380188942
+             My solution looks like:
+    [[ 8.  8.  8.  4.  4.  4.  4.  1.]
+ [ 8.  4.  4.  4.  7.  1.  1.  1.]
+ [ 8.  8.  8.  7.  7.  7.  1.  1.]
+ [ 6.  6.  8.  8.  7.  5.  1.  1.]
+ [ 6.  6.  6.  7.  7.  5.  1.  1.]
+ [ 6.  6.  3.  7.  2.  5.  5.  5.]
+ [ 3.  3.  3.  3.  2.  2.  2.  5.]
+ [ 3.  3.  3.  3.  2.  2.  2.  5.]]
+    
+Manager 0.
+             Initial Best: 3.94330453873 
+             Local Search Best: 3.22917556763
+             My solution looks like:
+    [[ 7.  7.  7.  7.  7.  7.  7.  8.]
+ [ 2.  2.  2.  2.  2.  8.  8.  8.]
+ [ 5.  5.  5.  2.  2.  2.  8.  8.]
+ [ 5.  5.  5.  5.  2.  2.  2.  8.]
+ [ 4.  4.  4.  1.  1.  3.  3.  3.]
+ [ 4.  4.  6.  1.  1.  3.  1.  3.]
+ [ 4.  4.  6.  6.  1.  1.  1.  3.]
+ [ 6.  6.  6.  6.  1.  1.  1.  3.]]
+    
+I have 8 cores in a shared memory space
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 0 and I initially had 8.0 regions.  I now have 8.0 regions.
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 1 and I initially had 8.0 regions.  I now have 8.0 regions.
+Manager 0.
+             Initial Best: 3.86157059669 
+             Local Search Best: 3.09052467346
+             My solution looks like:
+    [[ 7.  7.  7.  6.  5.  5.  5.  5.]
+ [ 7.  6.  6.  6.  6.  5.  5.  5.]
+ [ 7.  4.  4.  6.  6.  6.  5.  5.]
+ [ 7.  7.  4.  4.  4.  4.  2.  2.]
+ [ 7.  3.  3.  3.  3.  4.  2.  2.]
+ [ 3.  3.  8.  3.  2.  2.  2.  1.]
+ [ 3.  8.  8.  1.  1.  1.  1.  1.]
+ [ 3.  8.  8.  8.  8.  8.  8.  1.]]
+    
+I have 8 cores in a shared memory space
+Manager 1.
+             Initial Best: 3.71418571472 
+             Local Search Best: 3.13628077507
+             My solution looks like:
+    [[ 6.  1.  1.  1.  5.  5.  5.  7.]
+ [ 6.  1.  1.  1.  1.  5.  7.  7.]
+ [ 6.  6.  6.  5.  5.  5.  7.  7.]
+ [ 8.  6.  6.  4.  4.  4.  4.  7.]
+ [ 8.  8.  8.  8.  8.  4.  4.  7.]
+ [ 8.  8.  2.  8.  3.  4.  3.  7.]
+ [ 8.  2.  2.  2.  3.  3.  3.  7.]
+ [ 8.  2.  2.  2.  3.  3.  3.  7.]]
+    
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 0 and I initially had 8.0 regions.  I now have 8.0 regions.
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 1 and I initially had 8.0 regions.  I now have 8.0 regions.
+Manager 1.
+             Initial Best: 3.63652420044 
+             Local Search Best: 2.97153329849
+             My solution looks like:
+    [[ 6.  8.  8.  1.  1.  1.  1.  2.]
+ [ 6.  8.  8.  8.  1.  2.  2.  2.]
+ [ 6.  6.  6.  8.  1.  1.  2.  2.]
+ [ 6.  8.  8.  8.  8.  3.  2.  2.]
+ [ 6.  7.  7.  7.  7.  3.  2.  2.]
+ [ 7.  7.  5.  7.  3.  3.  3.  3.]
+ [ 5.  5.  5.  5.  3.  4.  4.  3.]
+ [ 5.  5.  4.  4.  4.  4.  4.  3.]]
+    
+Manager 0.
+             Initial Best: 3.92007780075 
+             Local Search Best: 3.06737351418
+             My solution looks like:
+    [[ 4.  8.  8.  8.  8.  8.  8.  7.]
+ [ 4.  8.  1.  1.  1.  7.  7.  7.]
+ [ 4.  4.  3.  1.  1.  1.  7.  6.]
+ [ 4.  4.  3.  3.  1.  7.  7.  6.]
+ [ 4.  2.  3.  1.  1.  7.  6.  6.]
+ [ 2.  2.  3.  1.  5.  7.  5.  6.]
+ [ 2.  2.  3.  3.  5.  5.  5.  6.]
+ [ 2.  2.  3.  3.  5.  5.  5.  6.]]
+    
+I have 8 cores in a shared memory space
+My soln space looks like: [ 9.  9.  9.  9.  9.  9.  9.  9.]
+I am manager 0 and I initially had 9.0 regions.  I now have 9.0 regions.
+The local solutions on rank 1 are inferior to the global best p. Updating...
+My soln space looks like: [ 9.  9.  9.  9.  9.  9.  9.  9.]
+I am manager 1 and I initially had 8.0 regions.  I now have 9.0 regions.
+Manager 0.
+             Initial Best: 4.00695610046 
+             Local Search Best: 3.98928236961
+             My solution looks like:
+    [[ 5.  5.  5.  5.  5.  5.  5.  7.]
+ [ 3.  3.  3.  3.  3.  3.  7.  7.]
+ [ 3.  9.  9.  9.  9.  9.  7.  7.]
+ [ 4.  2.  9.  2.  9.  6.  7.  7.]
+ [ 4.  2.  2.  2.  2.  6.  6.  6.]
+ [ 4.  4.  4.  2.  8.  6.  8.  6.]
+ [ 1.  4.  4.  8.  8.  8.  8.  6.]
+ [ 1.  1.  1.  1.  1.  1.  8.  6.]]
+    
+I have 8 cores in a shared memory space
+Manager 1.
+             Initial Best: 4.00695610046 
+             Local Search Best: 4.00695610046
+             My solution looks like:
+    [[ 8.  8.  8.  5.  5.  5.  5.  5.]
+ [ 8.  8.  8.  8.  6.  6.  6.  5.]
+ [ 3.  6.  6.  6.  6.  7.  2.  5.]
+ [ 3.  3.  7.  7.  7.  7.  2.  2.]
+ [ 3.  3.  7.  1.  7.  2.  2.  9.]
+ [ 3.  1.  1.  1.  1.  2.  2.  9.]
+ [ 3.  1.  4.  1.  9.  9.  9.  9.]
+ [ 4.  4.  4.  4.  4.  4.  4.  9.]]
+    
+The local solutions on rank 0 are inferior to the global best p. Updating...
+My soln space looks like: [ 9.  9.  9.  9.  9.  9.  9.  9.]
+I am manager 0 and I initially had 8.0 regions.  I now have 9.0 regions.
+My soln space looks like: [ 9.  9.  9.  9.  9.  9.  9.  9.]
+I am manager 1 and I initially had 9.0 regions.  I now have 9.0 regions.
+Manager 0.
+             Initial Best: 4.07995128632 
+             Local Search Best: 4.07995128632
+             My solution looks like:
+    [[ 1.  1.  1.  1.  9.  9.  9.  9.]
+ [ 1.  3.  3.  3.  3.  9.  9.  9.]
+ [ 1.  3.  3.  8.  8.  8.  7.  7.]
+ [ 1.  3.  2.  2.  8.  8.  7.  7.]
+ [ 2.  2.  2.  2.  8.  8.  7.  7.]
+ [ 4.  4.  2.  5.  5.  5.  6.  7.]
+ [ 4.  4.  4.  5.  5.  6.  6.  6.]
+ [ 4.  4.  5.  5.  6.  6.  6.  6.]]
+    
+I have 8 cores in a shared memory space
+Manager 1.
+             Initial Best: 4.07466554642 
+             Local Search Best: 3.42991638184
+             My solution looks like:
+    [[ 9.  9.  9.  6.  6.  6.  6.  3.]
+ [ 9.  9.  9.  9.  6.  3.  3.  3.]
+ [ 7.  7.  7.  7.  6.  6.  3.  3.]
+ [ 5.  7.  7.  1.  8.  8.  8.  3.]
+ [ 5.  7.  1.  1.  8.  4.  8.  8.]
+ [ 5.  1.  1.  2.  8.  4.  4.  4.]
+ [ 5.  5.  1.  2.  4.  4.  2.  4.]
+ [ 5.  5.  1.  2.  2.  2.  2.  4.]]
+    
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 0 and I initially had 8.0 regions.  I now have 8.0 regions.
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 1 and I initially had 8.0 regions.  I now have 8.0 regions.
+Manager 0.
+             Initial Best: 3.90587902069 
+             Local Search Best: 3.15500402451
+             My solution looks like:
+    [[ 1.  4.  4.  4.  4.  4.  4.  5.]
+ [ 1.  7.  7.  7.  7.  4.  5.  5.]
+ [ 1.  1.  1.  7.  7.  7.  5.  2.]
+ [ 1.  1.  1.  1.  1.  5.  5.  2.]
+ [ 1.  3.  3.  3.  3.  5.  2.  2.]
+ [ 3.  3.  8.  3.  6.  5.  6.  2.]
+ [ 8.  8.  8.  6.  6.  6.  6.  2.]
+ [ 8.  8.  8.  8.  6.  2.  2.  2.]]
+    
+I have 8 cores in a shared memory space
+Manager 1.
+             Initial Best: 3.52476263046 
+             Local Search Best: 3.30765390396
+             My solution looks like:
+    [[ 5.  5.  5.  5.  6.  6.  6.  1.]
+ [ 5.  5.  5.  6.  6.  1.  1.  1.]
+ [ 8.  8.  8.  8.  6.  6.  1.  4.]
+ [ 3.  8.  8.  8.  2.  1.  1.  4.]
+ [ 3.  3.  3.  3.  2.  1.  4.  4.]
+ [ 3.  3.  7.  3.  2.  2.  2.  4.]
+ [ 7.  7.  7.  7.  7.  2.  2.  4.]
+ [ 7.  7.  7.  7.  4.  4.  4.  4.]]
+    
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 0 and I initially had 8.0 regions.  I now have 8.0 regions.
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 1 and I initially had 8.0 regions.  I now have 8.0 regions.
+Manager 1.
+             Initial Best: 4.11770534515 
+             Local Search Best: 3.42424678802
+             My solution looks like:
+    [[ 3.  3.  3.  3.  1.  1.  1.  1.]
+ [ 3.  3.  3.  6.  1.  1.  1.  8.]
+ [ 5.  5.  5.  6.  6.  6.  8.  8.]
+ [ 7.  7.  5.  5.  6.  8.  8.  8.]
+ [ 7.  7.  5.  6.  6.  2.  8.  2.]
+ [ 7.  7.  5.  6.  4.  2.  2.  2.]
+ [ 7.  7.  7.  4.  4.  4.  4.  2.]
+ [ 7.  4.  4.  4.  4.  4.  4.  2.]]
+    
+Manager 0.
+             Initial Best: 3.94495105743 
+             Local Search Best: 3.00897812843
+             My solution looks like:
+    [[ 6.  6.  4.  2.  2.  2.  2.  8.]
+ [ 6.  6.  4.  2.  2.  8.  8.  8.]
+ [ 6.  4.  4.  2.  2.  2.  8.  5.]
+ [ 6.  6.  4.  4.  4.  8.  8.  5.]
+ [ 3.  7.  7.  7.  7.  8.  5.  5.]
+ [ 3.  7.  1.  7.  7.  8.  1.  5.]
+ [ 3.  3.  1.  1.  1.  1.  1.  5.]
+ [ 3.  3.  3.  3.  1.  1.  1.  5.]]
+    
+I have 8 cores in a shared memory space
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 0 and I initially had 8.0 regions.  I now have 8.0 regions.
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 1 and I initially had 8.0 regions.  I now have 8.0 regions.
+Manager 1.
+             Initial Best: 3.52504730225 
+             Local Search Best: 2.87441158295
+             My solution looks like:
+    [[ 2.  2.  2.  3.  3.  3.  3.  1.]
+ [ 4.  4.  2.  3.  3.  1.  1.  1.]
+ [ 4.  4.  2.  3.  3.  3.  1.  8.]
+ [ 4.  4.  2.  2.  2.  1.  1.  8.]
+ [ 4.  6.  6.  6.  6.  1.  8.  8.]
+ [ 6.  6.  5.  6.  7.  1.  7.  8.]
+ [ 5.  5.  5.  5.  7.  7.  7.  8.]
+ [ 5.  5.  5.  5.  7.  7.  7.  8.]]
+    
+Manager 0.
+             Initial Best: 3.67747569084 
+             Local Search Best: 3.06972384453
+             My solution looks like:
+    [[ 4.  4.  7.  7.  7.  7.  7.  5.]
+ [ 4.  7.  7.  6.  6.  5.  5.  5.]
+ [ 4.  4.  4.  6.  6.  6.  5.  5.]
+ [ 3.  3.  4.  6.  2.  2.  2.  5.]
+ [ 3.  6.  6.  6.  6.  2.  2.  5.]
+ [ 3.  3.  1.  6.  8.  2.  2.  5.]
+ [ 3.  1.  1.  1.  8.  8.  8.  5.]
+ [ 3.  1.  1.  1.  8.  8.  8.  5.]]
+    
+I have 8 cores in a shared memory space
+My soln space looks like: [ 9.  9.  9.  9.  9.  9.  9.  9.]
+I am manager 0 and I initially had 9.0 regions.  I now have 9.0 regions.
+The local solutions on rank 1 are inferior to the global best p. Updating...
+My soln space looks like: [ 9.  9.  9.  9.  9.  9.  9.  9.]
+I am manager 1 and I initially had 8.0 regions.  I now have 9.0 regions.
+Manager 0.
+             Initial Best: 3.58192420006 
+             Local Search Best: 2.91863560677
+             My solution looks like:
+    [[ 3.  3.  3.  3.  2.  2.  2.  6.]
+ [ 3.  3.  3.  2.  2.  6.  6.  6.]
+ [ 1.  1.  1.  2.  2.  2.  6.  6.]
+ [ 9.  9.  1.  1.  1.  1.  6.  5.]
+ [ 8.  9.  9.  9.  5.  5.  5.  5.]
+ [ 8.  9.  7.  9.  4.  4.  5.  5.]
+ [ 8.  8.  7.  7.  4.  4.  4.  4.]
+ [ 8.  8.  8.  7.  7.  7.  7.  4.]]
+    
+I have 8 cores in a shared memory space
+Manager 1.
+             Initial Best: 3.59541702271 
+             Local Search Best: 3.59541702271
+             My solution looks like:
+    [[ 5.  5.  5.  2.  6.  6.  6.  6.]
+ [ 5.  5.  2.  2.  2.  6.  6.  6.]
+ [ 5.  5.  8.  2.  2.  9.  9.  3.]
+ [ 8.  8.  8.  2.  9.  9.  9.  3.]
+ [ 8.  1.  8.  8.  8.  9.  3.  3.]
+ [ 1.  1.  1.  4.  4.  9.  4.  3.]
+ [ 1.  1.  1.  7.  4.  4.  4.  3.]
+ [ 7.  7.  7.  7.  7.  7.  4.  3.]]
+    
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 0 and I initially had 8.0 regions.  I now have 8.0 regions.
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 1 and I initially had 8.0 regions.  I now have 8.0 regions.
+Manager 1.
+             Initial Best: 3.74054861069 
+             Local Search Best: 2.96670198441
+             My solution looks like:
+    [[ 3.  3.  3.  5.  1.  1.  1.  7.]
+ [ 3.  5.  5.  5.  5.  1.  1.  7.]
+ [ 3.  2.  2.  5.  5.  5.  1.  7.]
+ [ 3.  3.  2.  2.  2.  2.  1.  7.]
+ [ 3.  4.  4.  4.  4.  2.  1.  7.]
+ [ 4.  4.  8.  4.  8.  2.  6.  7.]
+ [ 8.  8.  8.  8.  8.  6.  6.  7.]
+ [ 8.  8.  8.  8.  6.  6.  6.  6.]]
+    
+Manager 0.
+             Initial Best: 3.79678368568 
+             Local Search Best: 2.90598225594
+             My solution looks like:
+    [[ 6.  6.  6.  7.  7.  7.  2.  2.]
+ [ 6.  6.  6.  7.  7.  2.  2.  2.]
+ [ 6.  5.  5.  7.  7.  7.  2.  2.]
+ [ 3.  3.  5.  5.  5.  5.  4.  4.]
+ [ 1.  3.  3.  3.  3.  5.  4.  4.]
+ [ 1.  3.  8.  3.  5.  5.  8.  4.]
+ [ 1.  1.  8.  8.  5.  8.  8.  4.]
+ [ 1.  1.  1.  8.  8.  8.  8.  4.]]
+    
+I have 8 cores in a shared memory space
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 0 and I initially had 8.0 regions.  I now have 8.0 regions.
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 1 and I initially had 8.0 regions.  I now have 8.0 regions.
+Manager 1.
+             Initial Best: 4.16141605377 
+             Local Search Best: 3.25675415993
+             My solution looks like:
+    [[ 8.  3.  7.  7.  7.  7.  7.  4.]
+ [ 8.  3.  3.  7.  7.  4.  4.  4.]
+ [ 8.  8.  3.  3.  3.  4.  4.  4.]
+ [ 8.  8.  8.  8.  3.  4.  2.  2.]
+ [ 8.  1.  1.  1.  1.  5.  5.  2.]
+ [ 1.  1.  6.  1.  5.  5.  2.  2.]
+ [ 6.  6.  6.  5.  5.  2.  2.  2.]
+ [ 6.  6.  6.  5.  2.  2.  2.  2.]]
+    
+Manager 0.
+             Initial Best: 3.76126003265 
+             Local Search Best: 2.93578338623
+             My solution looks like:
+    [[ 7.  7.  7.  7.  4.  4.  4.  5.]
+ [ 7.  7.  7.  4.  4.  5.  5.  5.]
+ [ 8.  8.  8.  4.  4.  4.  5.  5.]
+ [ 8.  8.  8.  8.  4.  1.  1.  5.]
+ [ 8.  6.  6.  6.  6.  1.  1.  2.]
+ [ 6.  6.  3.  6.  1.  1.  2.  2.]
+ [ 3.  3.  3.  3.  1.  2.  2.  2.]
+ [ 3.  3.  3.  3.  2.  2.  2.  2.]]
+    
+I have 8 cores in a shared memory space
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 0 and I initially had 8.0 regions.  I now have 8.0 regions.
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 1 and I initially had 8.0 regions.  I now have 8.0 regions.
+Manager 1.
+             Initial Best: 3.83649945259 
+             Local Search Best: 3.17678928375
+             My solution looks like:
+    [[ 1.  1.  1.  4.  4.  4.  4.  2.]
+ [ 1.  4.  4.  4.  4.  2.  2.  2.]
+ [ 1.  1.  8.  4.  4.  2.  2.  2.]
+ [ 6.  1.  8.  8.  8.  8.  3.  3.]
+ [ 6.  6.  6.  6.  5.  8.  3.  3.]
+ [ 6.  6.  7.  5.  5.  8.  3.  3.]
+ [ 7.  7.  7.  7.  5.  5.  5.  3.]
+ [ 7.  7.  7.  7.  5.  3.  3.  3.]]
+    
+Manager 0.
+             Initial Best: 3.74337935448 
+             Local Search Best: 3.19353032112
+             My solution looks like:
+    [[ 4.  4.  4.  4.  4.  4.  4.  8.]
+ [ 4.  4.  6.  6.  4.  2.  2.  8.]
+ [ 3.  3.  3.  6.  4.  4.  2.  8.]
+ [ 5.  3.  3.  6.  4.  2.  2.  8.]
+ [ 5.  3.  3.  6.  6.  2.  7.  8.]
+ [ 5.  5.  1.  6.  6.  2.  7.  8.]
+ [ 5.  5.  1.  1.  1.  7.  7.  8.]
+ [ 5.  1.  1.  1.  7.  7.  7.  8.]]
+    
+I have 8 cores in a shared memory space
+The local solutions on rank 1 are inferior to the global best p. Updating...
+My soln space looks like: [ 9.  9.  9.  9.  9.  9.  9.  9.]
+I am manager 0 and I initially had 9.0 regions.  I now have 9.0 regions.
+My soln space looks like: [ 9.  9.  9.  9.  9.  9.  9.  9.]
+I am manager 1 and I initially had 8.0 regions.  I now have 9.0 regions.
+Manager 1.
+             Initial Best: 3.77897906303 
+             Local Search Best: 3.77897906303
+             My solution looks like:
+    [[ 4.  4.  4.  4.  6.  6.  5.  5.]
+ [ 4.  4.  1.  1.  6.  5.  5.  5.]
+ [ 4.  1.  1.  1.  6.  6.  2.  5.]
+ [ 7.  7.  1.  3.  6.  6.  2.  5.]
+ [ 7.  7.  1.  3.  3.  2.  2.  2.]
+ [ 7.  7.  3.  3.  3.  2.  2.  2.]
+ [ 7.  8.  8.  3.  9.  9.  9.  9.]
+ [ 8.  8.  8.  8.  8.  9.  9.  9.]]
+    
+Manager 0.
+             Initial Best: 3.76118087769 
+             Local Search Best: 3.48756980896
+             My solution looks like:
+    [[ 9.  9.  1.  1.  6.  6.  6.  7.]
+ [ 9.  9.  1.  6.  6.  5.  5.  7.]
+ [ 9.  9.  1.  1.  6.  5.  5.  7.]
+ [ 4.  9.  1.  1.  6.  5.  2.  7.]
+ [ 4.  3.  3.  3.  3.  5.  2.  7.]
+ [ 4.  3.  3.  3.  2.  5.  2.  7.]
+ [ 4.  4.  4.  8.  2.  2.  2.  7.]
+ [ 4.  8.  8.  8.  8.  8.  8.  7.]]
+    
+I have 8 cores in a shared memory space
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 0 and I initially had 8.0 regions.  I now have 8.0 regions.
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 1 and I initially had 8.0 regions.  I now have 8.0 regions.
+Manager 0.
+             Initial Best: 4.15564584732 
+             Local Search Best: 2.70222973824
+             My solution looks like:
+    [[ 8.  8.  8.  8.  1.  1.  1.  3.]
+ [ 8.  8.  8.  1.  1.  3.  3.  3.]
+ [ 7.  7.  7.  1.  1.  1.  1.  3.]
+ [ 2.  2.  7.  7.  7.  7.  1.  3.]
+ [ 6.  2.  2.  2.  2.  7.  5.  3.]
+ [ 6.  2.  4.  2.  4.  7.  5.  5.]
+ [ 6.  6.  4.  4.  4.  4.  4.  5.]
+ [ 6.  6.  6.  6.  4.  5.  5.  5.]]
+    
+I have 8 cores in a shared memory space
+Manager 1.
+             Initial Best: 3.77608346939 
+             Local Search Best: 2.7030339241
+             My solution looks like:
+    [[ 3.  3.  3.  3.  3.  3.  3.  4.]
+ [ 3.  2.  2.  2.  2.  4.  4.  4.]
+ [ 7.  7.  7.  2.  2.  2.  4.  4.]
+ [ 7.  7.  7.  7.  8.  8.  8.  4.]
+ [ 7.  6.  6.  6.  8.  5.  8.  8.]
+ [ 6.  6.  1.  6.  8.  5.  5.  5.]
+ [ 6.  1.  1.  1.  5.  5.  1.  5.]
+ [ 6.  1.  1.  1.  1.  1.  1.  5.]]
+    
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 0 and I initially had 8.0 regions.  I now have 8.0 regions.
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 1 and I initially had 8.0 regions.  I now have 8.0 regions.
+Manager 0.
+             Initial Best: 3.95487308502 
+             Local Search Best: 3.15764260292
+             My solution looks like:
+    [[ 6.  6.  6.  6.  1.  1.  1.  5.]
+ [ 6.  6.  6.  6.  6.  1.  5.  5.]
+ [ 7.  7.  7.  8.  8.  1.  1.  5.]
+ [ 7.  7.  7.  7.  8.  1.  2.  5.]
+ [ 7.  3.  3.  3.  8.  8.  2.  5.]
+ [ 3.  3.  4.  3.  8.  8.  2.  5.]
+ [ 3.  4.  4.  4.  4.  2.  2.  5.]
+ [ 3.  4.  4.  4.  2.  2.  2.  5.]]
+    
+I have 8 cores in a shared memory space
+Manager 1.
+             Initial Best: 3.97966885567 
+             Local Search Best: 3.35755372047
+             My solution looks like:
+    [[ 5.  5.  5.  5.  5.  5.  5.  1.]
+ [ 7.  2.  3.  3.  3.  1.  1.  1.]
+ [ 7.  2.  2.  3.  3.  3.  1.  1.]
+ [ 7.  2.  8.  8.  3.  6.  6.  1.]
+ [ 7.  2.  8.  3.  3.  6.  6.  6.]
+ [ 7.  2.  8.  3.  4.  6.  4.  6.]
+ [ 7.  2.  8.  8.  4.  4.  4.  6.]
+ [ 7.  8.  8.  8.  4.  4.  4.  6.]]
+    
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 0 and I initially had 8.0 regions.  I now have 8.0 regions.
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 1 and I initially had 8.0 regions.  I now have 8.0 regions.
+Manager 0.
+             Initial Best: 4.04275274277 
+             Local Search Best: 2.86502385139
+             My solution looks like:
+    [[ 2.  2.  2.  2.  2.  2.  2.  7.]
+ [ 5.  5.  5.  5.  5.  7.  7.  7.]
+ [ 1.  1.  1.  1.  5.  5.  7.  7.]
+ [ 4.  1.  1.  1.  5.  8.  8.  7.]
+ [ 4.  4.  4.  4.  4.  8.  8.  8.]
+ [ 4.  4.  3.  4.  6.  8.  6.  8.]
+ [ 3.  3.  3.  3.  6.  6.  6.  8.]
+ [ 3.  3.  3.  3.  6.  6.  6.  8.]]
+    
+I have 8 cores in a shared memory space
+Manager 1.
+             Initial Best: 3.74216175079 
+             Local Search Best: 2.67474293709
+             My solution looks like:
+    [[ 6.  6.  6.  6.  4.  4.  4.  7.]
+ [ 6.  6.  6.  4.  4.  7.  7.  7.]
+ [ 8.  8.  8.  4.  4.  4.  7.  7.]
+ [ 8.  8.  8.  8.  4.  1.  1.  7.]
+ [ 8.  3.  3.  3.  3.  1.  1.  1.]
+ [ 3.  3.  5.  3.  5.  1.  2.  1.]
+ [ 5.  5.  5.  5.  5.  2.  2.  1.]
+ [ 5.  5.  5.  2.  2.  2.  2.  1.]]
+    
+The local solutions on rank 1 are inferior to the global best p. Updating...
+My soln space looks like: [ 9.  9.  9.  9.  9.  9.  9.  9.]
+I am manager 0 and I initially had 9.0 regions.  I now have 9.0 regions.
+My soln space looks like: [ 9.  9.  9.  9.  9.  9.  9.  9.]
+I am manager 1 and I initially had 8.0 regions.  I now have 9.0 regions.
+Manager 0.
+             Initial Best: 4.02005434036 
+             Local Search Best: 4.02005434036
+             My solution looks like:
+    [[ 5.  5.  5.  5.  5.  5.  6.  6.]
+ [ 1.  1.  1.  5.  4.  4.  6.  6.]
+ [ 1.  1.  1.  1.  4.  4.  6.  6.]
+ [ 8.  8.  9.  9.  9.  4.  4.  6.]
+ [ 8.  8.  9.  9.  9.  4.  7.  7.]
+ [ 8.  3.  3.  9.  3.  2.  7.  7.]
+ [ 8.  3.  3.  3.  3.  2.  7.  7.]
+ [ 8.  2.  2.  2.  2.  2.  2.  7.]]
+    
+I have 8 cores in a shared memory space
+Manager 1.
+             Initial Best: 3.93365812302 
+             Local Search Best: 3.78060245514
+             My solution looks like:
+    [[ 6.  4.  4.  2.  2.  2.  2.  5.]
+ [ 6.  6.  4.  2.  2.  2.  5.  5.]
+ [ 6.  4.  4.  1.  1.  2.  5.  5.]
+ [ 6.  6.  4.  4.  1.  1.  1.  5.]
+ [ 6.  3.  3.  3.  3.  1.  1.  5.]
+ [ 8.  8.  3.  3.  3.  9.  9.  9.]
+ [ 8.  8.  8.  7.  9.  9.  7.  9.]
+ [ 8.  8.  7.  7.  7.  7.  7.  9.]]
+    
+The local solutions on rank 1 are inferior to the global best p. Updating...
+My soln space looks like: [ 9.  9.  9.  9.  9.  9.  9.  9.]
+I am manager 0 and I initially had 9.0 regions.  I now have 9.0 regions.
+My soln space looks like: [ 9.  9.  9.  9.  9.  9.  9.  9.]
+I am manager 1 and I initially had 8.0 regions.  I now have 9.0 regions.
+Manager 0.
+             Initial Best: 3.75220322609 
+             Local Search Best: 3.4570851326
+             My solution looks like:
+    [[ 4.  4.  5.  5.  5.  5.  5.  7.]
+ [ 4.  4.  4.  5.  5.  3.  3.  7.]
+ [ 6.  6.  4.  4.  2.  2.  3.  7.]
+ [ 6.  6.  6.  6.  2.  3.  3.  7.]
+ [ 6.  2.  2.  2.  2.  3.  7.  7.]
+ [ 1.  1.  9.  2.  9.  3.  8.  7.]
+ [ 1.  1.  9.  9.  9.  8.  8.  8.]
+ [ 1.  1.  1.  9.  9.  8.  8.  8.]]
+    
+I have 8 cores in a shared memory space
+Manager 1.
+             Initial Best: 3.75131106377 
+             Local Search Best: 3.75131106377
+             My solution looks like:
+    [[ 1.  3.  3.  3.  7.  7.  7.  7.]
+ [ 1.  3.  1.  3.  3.  3.  7.  7.]
+ [ 1.  1.  1.  8.  9.  9.  6.  7.]
+ [ 5.  5.  1.  8.  9.  9.  6.  6.]
+ [ 5.  5.  5.  8.  9.  9.  6.  6.]
+ [ 5.  5.  8.  8.  8.  9.  9.  6.]
+ [ 2.  2.  8.  2.  4.  4.  4.  6.]
+ [ 2.  2.  2.  2.  4.  4.  4.  4.]]
+    
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 0 and I initially had 8.0 regions.  I now have 8.0 regions.
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 1 and I initially had 8.0 regions.  I now have 8.0 regions.
+Manager 0.
+             Initial Best: 3.81145596504 
+             Local Search Best: 3.15905046463
+             My solution looks like:
+    [[ 8.  8.  8.  8.  3.  3.  3.  3.]
+ [ 2.  8.  2.  8.  8.  3.  3.  3.]
+ [ 2.  2.  2.  8.  8.  8.  3.  4.]
+ [ 7.  2.  2.  1.  1.  1.  4.  4.]
+ [ 7.  7.  7.  7.  7.  1.  4.  4.]
+ [ 7.  7.  5.  7.  1.  1.  6.  4.]
+ [ 7.  5.  5.  5.  1.  6.  6.  4.]
+ [ 7.  5.  5.  5.  6.  6.  6.  6.]]
+    
+I have 8 cores in a shared memory space
+Manager 1.
+             Initial Best: 3.65727210045 
+             Local Search Best: 2.90107631683
+             My solution looks like:
+    [[ 3.  3.  3.  4.  1.  1.  1.  1.]
+ [ 3.  4.  4.  4.  4.  1.  1.  1.]
+ [ 3.  6.  6.  4.  4.  4.  1.  7.]
+ [ 3.  3.  6.  6.  6.  6.  7.  7.]
+ [ 3.  2.  2.  2.  2.  6.  7.  7.]
+ [ 2.  2.  5.  2.  8.  6.  7.  8.]
+ [ 5.  5.  5.  8.  8.  8.  7.  8.]
+ [ 5.  5.  5.  5.  5.  8.  8.  8.]]
+    
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 0 and I initially had 8.0 regions.  I now have 8.0 regions.
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 1 and I initially had 8.0 regions.  I now have 8.0 regions.
+Manager 0.
+             Initial Best: 3.83818531036 
+             Local Search Best: 3.22454786301
+             My solution looks like:
+    [[ 6.  6.  6.  6.  2.  2.  2.  2.]
+ [ 6.  6.  6.  6.  6.  2.  2.  2.]
+ [ 1.  1.  1.  1.  1.  8.  2.  2.]
+ [ 4.  4.  1.  1.  8.  8.  8.  3.]
+ [ 7.  4.  4.  4.  4.  5.  8.  3.]
+ [ 7.  4.  7.  4.  5.  5.  8.  3.]
+ [ 7.  7.  7.  5.  5.  8.  8.  3.]
+ [ 7.  5.  5.  5.  3.  3.  3.  3.]]
+    
+I have 8 cores in a shared memory space
+Manager 1.
+             Initial Best: 3.55422544479 
+             Local Search Best: 3.00067090988
+             My solution looks like:
+    [[ 7.  7.  7.  2.  2.  2.  1.  1.]
+ [ 7.  2.  2.  2.  2.  1.  1.  1.]
+ [ 7.  7.  5.  2.  2.  2.  8.  1.]
+ [ 3.  7.  5.  5.  5.  5.  8.  1.]
+ [ 3.  3.  3.  3.  3.  5.  8.  8.]
+ [ 3.  3.  6.  3.  4.  5.  4.  8.]
+ [ 6.  6.  6.  6.  4.  4.  4.  8.]
+ [ 6.  6.  6.  6.  4.  4.  4.  8.]]
+    
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 0 and I initially had 8.0 regions.  I now have 8.0 regions.
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 1 and I initially had 8.0 regions.  I now have 8.0 regions.
+Manager 0.
+             Initial Best: 3.73340559006 
+             Local Search Best: 3.15252494812
+             My solution looks like:
+    [[ 5.  5.  5.  3.  3.  3.  8.  8.]
+ [ 5.  5.  5.  5.  3.  8.  8.  8.]
+ [ 6.  6.  6.  3.  3.  3.  8.  8.]
+ [ 6.  6.  6.  6.  2.  2.  2.  2.]
+ [ 6.  4.  4.  4.  4.  1.  2.  2.]
+ [ 4.  4.  7.  4.  4.  1.  2.  1.]
+ [ 4.  7.  7.  7.  1.  1.  1.  1.]
+ [ 4.  7.  7.  7.  7.  7.  7.  1.]]
+    
+I have 8 cores in a shared memory space
+Manager 1.
+             Initial Best: 3.8255341053 
+             Local Search Best: 3.38117527962
+             My solution looks like:
+    [[ 2.  2.  4.  4.  4.  4.  4.  5.]
+ [ 2.  4.  4.  3.  4.  5.  5.  5.]
+ [ 2.  3.  3.  3.  3.  5.  5.  5.]
+ [ 2.  2.  3.  3.  6.  5.  1.  1.]
+ [ 2.  7.  7.  7.  6.  5.  1.  1.]
+ [ 7.  7.  6.  6.  6.  5.  1.  8.]
+ [ 7.  6.  6.  8.  8.  1.  1.  8.]
+ [ 7.  8.  8.  8.  8.  8.  8.  8.]]
+    
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 0 and I initially had 8.0 regions.  I now have 8.0 regions.
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 1 and I initially had 8.0 regions.  I now have 8.0 regions.
+Manager 1.
+             Initial Best: 3.79901576042 
+             Local Search Best: 2.96521997452
+             My solution looks like:
+    [[ 6.  7.  7.  7.  7.  7.  8.  8.]
+ [ 6.  3.  3.  3.  3.  7.  7.  8.]
+ [ 6.  6.  6.  3.  3.  3.  7.  8.]
+ [ 5.  6.  6.  6.  3.  2.  8.  8.]
+ [ 5.  5.  5.  5.  5.  2.  8.  8.]
+ [ 5.  4.  4.  5.  2.  2.  2.  2.]
+ [ 4.  4.  1.  1.  2.  1.  1.  2.]
+ [ 4.  4.  4.  1.  1.  1.  1.  2.]]
+    
+Manager 0.
+             Initial Best: 3.60807657242 
+             Local Search Best: 3.12144207954
+             My solution looks like:
+    [[ 8.  8.  8.  5.  5.  5.  5.  4.]
+ [ 8.  5.  5.  5.  5.  4.  4.  4.]
+ [ 8.  2.  2.  2.  5.  5.  4.  4.]
+ [ 8.  2.  2.  2.  2.  6.  3.  4.]
+ [ 8.  7.  7.  7.  7.  6.  3.  3.]
+ [ 7.  7.  1.  7.  6.  6.  3.  3.]
+ [ 7.  1.  1.  1.  6.  6.  3.  3.]
+ [ 7.  1.  1.  1.  1.  6.  3.  3.]]
+    
+I have 8 cores in a shared memory space
+The local solutions on rank 1 are inferior to the global best p. Updating...
+My soln space looks like: [ 9.  9.  9.  9.  9.  9.  9.  9.]
+I am manager 0 and I initially had 9.0 regions.  I now have 9.0 regions.
+My soln space looks like: [ 9.  9.  9.  9.  9.  9.  9.  9.]
+I am manager 1 and I initially had 8.0 regions.  I now have 9.0 regions.
+Manager 1.
+             Initial Best: 3.89155125618 
+             Local Search Best: 3.87797522545
+             My solution looks like:
+    [[ 2.  2.  6.  6.  1.  1.  1.  1.]
+ [ 2.  2.  6.  6.  6.  4.  1.  1.]
+ [ 2.  2.  4.  6.  6.  4.  4.  1.]
+ [ 8.  2.  4.  4.  4.  4.  5.  5.]
+ [ 8.  8.  8.  8.  8.  5.  5.  5.]
+ [ 7.  7.  3.  8.  3.  9.  5.  5.]
+ [ 7.  3.  3.  3.  3.  9.  9.  9.]
+ [ 7.  7.  7.  7.  3.  9.  9.  9.]]
+    
+Manager 0.
+             Initial Best: 3.89155125618 
+             Local Search Best: 3.87797522545
+             My solution looks like:
+    [[ 2.  2.  6.  6.  1.  1.  1.  1.]
+ [ 2.  2.  6.  6.  6.  4.  1.  1.]
+ [ 2.  2.  4.  6.  6.  4.  4.  1.]
+ [ 8.  2.  4.  4.  4.  4.  5.  5.]
+ [ 8.  8.  8.  8.  8.  5.  5.  5.]
+ [ 7.  7.  3.  8.  3.  9.  5.  5.]
+ [ 7.  3.  3.  3.  3.  9.  9.  9.]
+ [ 7.  7.  7.  7.  3.  9.  9.  9.]]
+    
+I have 8 cores in a shared memory space
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 0 and I initially had 8.0 regions.  I now have 8.0 regions.
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 1 and I initially had 8.0 regions.  I now have 8.0 regions.
+Manager 1.
+             Initial Best: 3.67503237724 
+             Local Search Best: 3.13903522491
+             My solution looks like:
+    [[ 5.  5.  5.  4.  4.  4.  7.  7.]
+ [ 5.  4.  4.  4.  4.  7.  7.  7.]
+ [ 5.  5.  5.  4.  4.  4.  7.  7.]
+ [ 3.  8.  8.  8.  8.  8.  8.  8.]
+ [ 3.  3.  3.  3.  3.  2.  8.  8.]
+ [ 3.  3.  1.  3.  1.  2.  2.  2.]
+ [ 1.  1.  1.  1.  1.  6.  2.  2.]
+ [ 6.  6.  6.  6.  6.  6.  6.  2.]]
+    
+Manager 0.
+             Initial Best: 3.97925138474 
+             Local Search Best: 2.9328649044
+             My solution looks like:
+    [[ 4.  4.  4.  1.  1.  1.  3.  3.]
+ [ 4.  1.  1.  1.  1.  3.  3.  3.]
+ [ 4.  8.  8.  1.  1.  1.  3.  3.]
+ [ 4.  4.  8.  8.  8.  8.  5.  2.]
+ [ 4.  6.  6.  6.  6.  8.  5.  2.]
+ [ 6.  6.  7.  6.  5.  8.  5.  2.]
+ [ 6.  7.  7.  7.  5.  5.  5.  2.]
+ [ 6.  7.  7.  7.  5.  2.  2.  2.]]
+    
+I have 8 cores in a shared memory space
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 0 and I initially had 8.0 regions.  I now have 8.0 regions.
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 1 and I initially had 8.0 regions.  I now have 8.0 regions.
+Manager 1.
+             Initial Best: 3.91656756401 
+             Local Search Best: 2.71758055687
+             My solution looks like:
+    [[ 2.  8.  8.  8.  8.  8.  8.  3.]
+ [ 2.  8.  6.  6.  6.  3.  3.  3.]
+ [ 2.  2.  2.  6.  6.  6.  3.  3.]
+ [ 1.  1.  2.  2.  6.  4.  4.  3.]
+ [ 1.  6.  6.  6.  6.  4.  4.  4.]
+ [ 1.  1.  7.  6.  5.  4.  5.  4.]
+ [ 1.  7.  7.  7.  5.  5.  5.  4.]
+ [ 1.  7.  7.  7.  5.  5.  5.  4.]]
+    
+Manager 0.
+             Initial Best: 3.90820097923 
+             Local Search Best: 3.1121172905
+             My solution looks like:
+    [[ 8.  8.  8.  7.  5.  5.  5.  5.]
+ [ 8.  7.  7.  7.  7.  5.  5.  5.]
+ [ 8.  8.  8.  3.  7.  7.  7.  5.]
+ [ 6.  6.  6.  3.  7.  4.  7.  5.]
+ [ 6.  3.  3.  3.  3.  4.  7.  7.]
+ [ 6.  3.  2.  3.  1.  4.  4.  4.]
+ [ 6.  6.  2.  2.  1.  1.  1.  4.]
+ [ 2.  2.  2.  2.  1.  1.  1.  4.]]
+    
+I have 8 cores in a shared memory space
+The local solutions on rank 0 are inferior to the global best p. Updating...
+My soln space looks like: [ 9.  9.  9.  9.  9.  9.  9.  9.]
+I am manager 0 and I initially had 8.0 regions.  I now have 9.0 regions.
+My soln space looks like: [ 9.  9.  9.  9.  9.  9.  9.  9.]
+I am manager 1 and I initially had 9.0 regions.  I now have 9.0 regions.
+Manager 0.
+             Initial Best: 3.94721317291 
+             Local Search Best: 3.94721317291
+             My solution looks like:
+    [[ 8.  1.  1.  1.  1.  9.  9.  9.]
+ [ 8.  1.  2.  1.  1.  9.  9.  7.]
+ [ 8.  8.  2.  2.  2.  9.  7.  7.]
+ [ 8.  8.  2.  2.  2.  9.  7.  7.]
+ [ 8.  4.  5.  2.  5.  5.  7.  7.]
+ [ 4.  4.  5.  5.  5.  5.  3.  3.]
+ [ 4.  4.  6.  6.  6.  3.  3.  3.]
+ [ 4.  4.  6.  6.  6.  6.  3.  3.]]
+    
+I have 8 cores in a shared memory space
+Manager 1.
+             Initial Best: 3.94721317291 
+             Local Search Best: 3.55082893372
+             My solution looks like:
+    [[ 9.  9.  9.  2.  5.  5.  5.  5.]
+ [ 9.  9.  9.  2.  2.  8.  8.  5.]
+ [ 7.  7.  9.  2.  2.  2.  8.  5.]
+ [ 7.  7.  7.  7.  2.  8.  8.  5.]
+ [ 7.  3.  3.  6.  6.  8.  1.  5.]
+ [ 3.  3.  3.  3.  6.  8.  1.  1.]
+ [ 4.  4.  3.  4.  6.  6.  6.  1.]
+ [ 4.  4.  4.  4.  6.  1.  1.  1.]]
+    
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 0 and I initially had 8.0 regions.  I now have 8.0 regions.
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 1 and I initially had 8.0 regions.  I now have 8.0 regions.
+Manager 1.
+             Initial Best: 3.65394043922 
+             Local Search Best: 2.71756196022
+             My solution looks like:
+    [[ 8.  8.  8.  8.  6.  6.  6.  5.]
+ [ 8.  8.  8.  6.  6.  5.  5.  5.]
+ [ 4.  4.  4.  6.  6.  6.  5.  5.]
+ [ 3.  3.  4.  4.  4.  4.  5.  1.]
+ [ 2.  3.  3.  3.  3.  4.  1.  1.]
+ [ 2.  2.  7.  3.  7.  4.  1.  1.]
+ [ 2.  2.  7.  7.  7.  1.  1.  1.]
+ [ 2.  2.  7.  7.  1.  1.  1.  1.]]
+    
+Manager 0.
+             Initial Best: 3.69157767296 
+             Local Search Best: 2.85258984566
+             My solution looks like:
+    [[ 2.  3.  3.  3.  3.  3.  3.  3.]
+ [ 2.  2.  2.  2.  2.  3.  3.  3.]
+ [ 4.  4.  4.  2.  7.  7.  7.  3.]
+ [ 6.  4.  4.  4.  4.  8.  7.  7.]
+ [ 6.  6.  5.  5.  5.  8.  7.  7.]
+ [ 6.  6.  1.  5.  5.  8.  8.  8.]
+ [ 6.  1.  1.  1.  5.  5.  5.  8.]
+ [ 6.  1.  1.  1.  5.  5.  5.  8.]]
+    
+I have 8 cores in a shared memory space
+The local solutions on rank 0 are inferior to the global best p. Updating...
+My soln space looks like: [ 9.  9.  9.  9.  9.  9.  9.  9.]
+I am manager 0 and I initially had 8.0 regions.  I now have 9.0 regions.
+My soln space looks like: [ 9.  9.  9.  9.  9.  9.  9.  9.]
+I am manager 1 and I initially had 9.0 regions.  I now have 9.0 regions.
+Manager 0.
+             Initial Best: 4.03362703323 
+             Local Search Best: 3.04710292816
+             My solution looks like:
+    [[ 5.  5.  5.  5.  7.  7.  7.  7.]
+ [ 5.  5.  9.  5.  3.  7.  7.  7.]
+ [ 9.  9.  9.  3.  3.  8.  8.  8.]
+ [ 4.  9.  9.  9.  3.  8.  8.  8.]
+ [ 4.  4.  3.  3.  3.  2.  2.  8.]
+ [ 4.  4.  1.  3.  6.  2.  2.  2.]
+ [ 4.  1.  1.  1.  6.  6.  6.  2.]
+ [ 4.  1.  1.  1.  6.  6.  6.  2.]]
+    
+I have 8 cores in a shared memory space
+Manager 1.
+             Initial Best: 4.0388917923 
+             Local Search Best: 3.48336386681
+             My solution looks like:
+    [[ 5.  5.  5.  5.  7.  7.  7.  7.]
+ [ 5.  5.  9.  5.  3.  7.  7.  7.]
+ [ 9.  9.  9.  9.  3.  8.  8.  8.]
+ [ 4.  9.  9.  3.  3.  8.  8.  8.]
+ [ 4.  4.  4.  3.  3.  2.  2.  8.]
+ [ 4.  4.  1.  3.  6.  2.  2.  2.]
+ [ 4.  1.  1.  1.  6.  6.  6.  2.]
+ [ 4.  1.  1.  1.  6.  6.  6.  2.]]
+    
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 0 and I initially had 8.0 regions.  I now have 8.0 regions.
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 1 and I initially had 8.0 regions.  I now have 8.0 regions.
+Manager 1.
+             Initial Best: 3.8250772953 
+             Local Search Best: 3.21667194366
+             My solution looks like:
+    [[ 7.  7.  7.  7.  1.  1.  1.  3.]
+ [ 7.  1.  1.  1.  1.  2.  2.  3.]
+ [ 7.  7.  2.  1.  1.  2.  2.  3.]
+ [ 6.  6.  2.  2.  2.  2.  3.  3.]
+ [ 8.  6.  6.  6.  6.  2.  3.  4.]
+ [ 8.  6.  8.  6.  5.  2.  3.  4.]
+ [ 8.  8.  8.  5.  5.  4.  4.  4.]
+ [ 8.  5.  5.  5.  5.  5.  4.  4.]]
+    
+Manager 0.
+             Initial Best: 3.67680120468 
+             Local Search Best: 3.01631879807
+             My solution looks like:
+    [[ 2.  2.  2.  2.  6.  6.  6.  6.]
+ [ 2.  2.  2.  1.  1.  6.  6.  6.]
+ [ 8.  8.  8.  1.  1.  1.  1.  6.]
+ [ 8.  8.  8.  8.  1.  3.  1.  6.]
+ [ 8.  4.  4.  4.  4.  3.  1.  1.]
+ [ 4.  4.  4.  4.  7.  3.  3.  3.]
+ [ 5.  5.  4.  5.  7.  7.  7.  3.]
+ [ 5.  5.  5.  5.  7.  7.  7.  3.]]
+    
+I have 8 cores in a shared memory space
+My soln space looks like: [ 9.  9.  9.  9.  9.  9.  9.  9.]
+I am manager 0 and I initially had 9.0 regions.  I now have 9.0 regions.
+My soln space looks like: [ 9.  9.  9.  9.  9.  9.  9.  9.]
+I am manager 1 and I initially had 9.0 regions.  I now have 9.0 regions.
+Manager 1.
+             Initial Best: 3.66025662422 
+             Local Search Best: 3.66025662422
+             My solution looks like:
+    [[ 8.  8.  8.  8.  5.  5.  5.  9.]
+ [ 8.  4.  1.  8.  8.  5.  5.  9.]
+ [ 4.  4.  1.  8.  5.  5.  9.  9.]
+ [ 7.  4.  1.  1.  1.  1.  9.  9.]
+ [ 7.  4.  4.  2.  2.  1.  3.  9.]
+ [ 7.  7.  4.  2.  2.  3.  3.  3.]
+ [ 7.  2.  2.  2.  6.  6.  3.  3.]
+ [ 7.  7.  6.  6.  6.  6.  6.  3.]]
+    
+Manager 0.
+             Initial Best: 4.01219892502 
+             Local Search Best: 3.85825157166
+             My solution looks like:
+    [[ 5.  5.  5.  5.  5.  3.  3.  3.]
+ [ 5.  9.  9.  9.  9.  3.  3.  3.]
+ [ 5.  8.  4.  9.  9.  9.  4.  3.]
+ [ 8.  8.  4.  4.  4.  4.  4.  2.]
+ [ 8.  7.  7.  7.  1.  4.  2.  2.]
+ [ 8.  8.  6.  7.  1.  1.  2.  2.]
+ [ 6.  8.  6.  7.  7.  1.  1.  2.]
+ [ 6.  6.  6.  6.  7.  1.  1.  2.]]
+    
+I have 8 cores in a shared memory space
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 0 and I initially had 8.0 regions.  I now have 8.0 regions.
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 1 and I initially had 8.0 regions.  I now have 8.0 regions.
+Manager 1.
+             Initial Best: 3.95693969727 
+             Local Search Best: 3.06076955795
+             My solution looks like:
+    [[ 1.  6.  3.  3.  8.  8.  8.  8.]
+ [ 1.  6.  3.  3.  3.  2.  2.  8.]
+ [ 1.  6.  6.  6.  3.  3.  2.  8.]
+ [ 1.  1.  1.  6.  6.  2.  2.  8.]
+ [ 1.  7.  7.  7.  7.  2.  8.  8.]
+ [ 7.  7.  4.  7.  5.  2.  2.  2.]
+ [ 4.  4.  4.  4.  5.  5.  5.  2.]
+ [ 4.  4.  4.  4.  5.  5.  5.  2.]]
+    
+Manager 0.
+             Initial Best: 3.87483263016 
+             Local Search Best: 2.912566185
+             My solution looks like:
+    [[ 5.  5.  5.  3.  4.  4.  4.  4.]
+ [ 5.  5.  5.  3.  3.  4.  4.  4.]
+ [ 8.  8.  5.  3.  3.  3.  3.  4.]
+ [ 8.  8.  8.  8.  3.  2.  3.  4.]
+ [ 8.  6.  6.  6.  6.  2.  2.  2.]
+ [ 6.  6.  1.  6.  1.  2.  7.  2.]
+ [ 6.  1.  1.  1.  1.  7.  7.  2.]
+ [ 6.  1.  1.  7.  7.  7.  7.  2.]]
+    
+I have 8 cores in a shared memory space
+My soln space looks like: [ 9.  9.  9.  9.  9.  9.  9.  9.]
+I am manager 0 and I initially had 9.0 regions.  I now have 9.0 regions.
+The local solutions on rank 1 are inferior to the global best p. Updating...
+My soln space looks like: [ 9.  9.  9.  9.  9.  9.  9.  9.]
+I am manager 1 and I initially had 8.0 regions.  I now have 9.0 regions.
+Manager 1.
+             Initial Best: 3.78323411942 
+             Local Search Best: 3.668156147
+             My solution looks like:
+    [[ 1.  2.  2.  2.  2.  2.  6.  6.]
+ [ 1.  1.  2.  2.  9.  6.  6.  6.]
+ [ 1.  1.  1.  9.  9.  9.  6.  6.]
+ [ 5.  5.  1.  9.  9.  9.  8.  8.]
+ [ 4.  5.  5.  5.  5.  8.  8.  8.]
+ [ 4.  5.  3.  5.  3.  7.  8.  8.]
+ [ 4.  4.  3.  3.  3.  7.  7.  7.]
+ [ 4.  4.  4.  3.  3.  7.  7.  7.]]
+    
+Manager 0.
+             Initial Best: 3.77126908302 
+             Local Search Best: 3.77126908302
+             My solution looks like:
+    [[ 1.  1.  1.  7.  8.  8.  8.  8.]
+ [ 4.  1.  7.  7.  3.  3.  3.  8.]
+ [ 4.  1.  1.  7.  3.  3.  3.  8.]
+ [ 4.  4.  1.  7.  7.  9.  3.  8.]
+ [ 4.  4.  2.  7.  9.  9.  6.  6.]
+ [ 4.  4.  2.  9.  9.  9.  6.  6.]
+ [ 2.  2.  2.  5.  9.  5.  6.  6.]
+ [ 2.  2.  5.  5.  5.  5.  5.  6.]]
+    
+I have 8 cores in a shared memory space
+My soln space looks like: [ 9.  9.  9.  9.  9.  9.  9.  9.]
+I am manager 0 and I initially had 9.0 regions.  I now have 9.0 regions.
+My soln space looks like: [ 9.  9.  9.  9.  9.  9.  9.  9.]
+I am manager 1 and I initially had 9.0 regions.  I now have 9.0 regions.
+Manager 1.
+             Initial Best: 3.65890622139 
+             Local Search Best: 3.3659427166
+             My solution looks like:
+    [[ 2.  2.  2.  2.  3.  3.  4.  4.]
+ [ 2.  2.  5.  2.  9.  3.  3.  4.]
+ [ 5.  5.  5.  9.  9.  3.  3.  4.]
+ [ 5.  8.  5.  5.  9.  6.  3.  4.]
+ [ 8.  8.  9.  9.  9.  6.  4.  4.]
+ [ 8.  8.  7.  9.  1.  6.  6.  6.]
+ [ 8.  7.  7.  7.  1.  1.  1.  6.]
+ [ 8.  7.  7.  7.  1.  1.  1.  6.]]
+    
+Manager 0.
+             Initial Best: 3.70061135292 
+             Local Search Best: 3.57313013077
+             My solution looks like:
+    [[ 8.  1.  1.  1.  5.  5.  5.  7.]
+ [ 8.  1.  1.  1.  5.  5.  5.  7.]
+ [ 8.  8.  8.  1.  3.  3.  5.  7.]
+ [ 4.  4.  8.  8.  3.  3.  3.  7.]
+ [ 2.  4.  4.  4.  4.  6.  3.  7.]
+ [ 2.  4.  9.  9.  9.  6.  3.  7.]
+ [ 2.  2.  9.  9.  6.  6.  3.  7.]
+ [ 2.  2.  2.  9.  9.  6.  6.  6.]]
+    
+I have 8 cores in a shared memory space
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 0 and I initially had 8.0 regions.  I now have 8.0 regions.
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 1 and I initially had 8.0 regions.  I now have 8.0 regions.
+Manager 0.
+             Initial Best: 3.69857621193 
+             Local Search Best: 3.08313083649
+             My solution looks like:
+    [[ 5.  6.  6.  6.  6.  6.  6.  7.]
+ [ 5.  6.  2.  2.  2.  3.  3.  7.]
+ [ 5.  5.  5.  2.  2.  3.  3.  7.]
+ [ 4.  4.  5.  5.  2.  3.  7.  7.]
+ [ 4.  2.  2.  2.  2.  3.  3.  7.]
+ [ 4.  2.  1.  2.  8.  8.  8.  7.]
+ [ 4.  4.  1.  1.  1.  8.  8.  7.]
+ [ 4.  1.  1.  1.  8.  8.  8.  7.]]
+    
+I have 8 cores in a shared memory space
+Manager 1.
+             Initial Best: 3.87249755859 
+             Local Search Best: 3.42908334732
+             My solution looks like:
+    [[ 5.  5.  5.  2.  2.  2.  2.  8.]
+ [ 5.  7.  7.  7.  2.  8.  8.  8.]
+ [ 5.  5.  7.  2.  2.  2.  8.  8.]
+ [ 4.  5.  7.  7.  7.  2.  2.  8.]
+ [ 4.  1.  1.  1.  1.  3.  3.  3.]
+ [ 4.  4.  6.  1.  1.  1.  3.  3.]
+ [ 4.  4.  6.  6.  6.  1.  1.  3.]
+ [ 4.  6.  6.  6.  6.  6.  1.  3.]]
+    
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 0 and I initially had 8.0 regions.  I now have 8.0 regions.
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 1 and I initially had 8.0 regions.  I now have 8.0 regions.
+Manager 1.
+             Initial Best: 3.24094867706 
+             Local Search Best: 2.73960065842
+             My solution looks like:
+    [[ 4.  8.  8.  8.  8.  8.  8.  1.]
+ [ 4.  8.  3.  3.  3.  1.  1.  1.]
+ [ 4.  4.  4.  3.  3.  3.  1.  5.]
+ [ 4.  4.  4.  4.  3.  1.  1.  5.]
+ [ 4.  6.  6.  3.  3.  1.  5.  5.]
+ [ 6.  6.  7.  3.  7.  1.  2.  5.]
+ [ 6.  6.  7.  7.  7.  2.  2.  5.]
+ [ 6.  7.  7.  2.  2.  2.  2.  5.]]
+    
+Manager 0.
+             Initial Best: 4.01538467407 
+             Local Search Best: 2.9471051693
+             My solution looks like:
+    [[ 4.  4.  4.  2.  2.  2.  2.  8.]
+ [ 4.  2.  2.  2.  2.  8.  8.  8.]
+ [ 4.  4.  4.  2.  2.  2.  8.  8.]
+ [ 1.  6.  6.  6.  6.  6.  6.  8.]
+ [ 1.  1.  5.  5.  5.  3.  6.  6.]
+ [ 1.  1.  5.  7.  3.  3.  3.  3.]
+ [ 1.  5.  5.  7.  3.  7.  7.  3.]
+ [ 1.  5.  5.  7.  7.  7.  7.  3.]]
+    
+I have 8 cores in a shared memory space
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 0 and I initially had 8.0 regions.  I now have 8.0 regions.
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 1 and I initially had 8.0 regions.  I now have 8.0 regions.
+Manager 0.
+             Initial Best: 4.05406618118 
+             Local Search Best: 3.01539921761
+             My solution looks like:
+    [[ 5.  5.  5.  5.  8.  8.  8.  8.]
+ [ 5.  5.  5.  7.  7.  8.  8.  8.]
+ [ 4.  4.  4.  4.  7.  7.  8.  8.]
+ [ 3.  4.  4.  4.  7.  7.  7.  7.]
+ [ 3.  3.  3.  3.  3.  1.  1.  7.]
+ [ 3.  3.  6.  3.  2.  1.  1.  1.]
+ [ 6.  6.  6.  6.  2.  2.  2.  1.]
+ [ 6.  6.  6.  6.  2.  2.  2.  1.]]
+    
+I have 8 cores in a shared memory space
+Manager 1.
+             Initial Best: 3.53291559219 
+             Local Search Best: 3.34577012062
+             My solution looks like:
+    [[ 7.  7.  7.  7.  7.  7.  7.  1.]
+ [ 7.  8.  3.  3.  3.  1.  1.  1.]
+ [ 8.  8.  8.  3.  3.  1.  1.  1.]
+ [ 2.  8.  8.  8.  3.  1.  4.  4.]
+ [ 2.  3.  3.  3.  3.  1.  4.  4.]
+ [ 2.  3.  5.  5.  4.  4.  4.  6.]
+ [ 2.  2.  2.  5.  5.  4.  6.  6.]
+ [ 2.  5.  5.  5.  6.  6.  6.  6.]]
+    
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 0 and I initially had 8.0 regions.  I now have 8.0 regions.
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 1 and I initially had 8.0 regions.  I now have 8.0 regions.
+Manager 0.
+             Initial Best: 4.17010116577 
+             Local Search Best: 3.18710398674
+             My solution looks like:
+    [[ 8.  8.  8.  7.  7.  7.  7.  7.]
+ [ 8.  1.  1.  1.  7.  6.  6.  7.]
+ [ 8.  8.  5.  1.  1.  1.  6.  6.]
+ [ 2.  8.  5.  5.  1.  4.  6.  6.]
+ [ 2.  2.  5.  1.  1.  4.  6.  6.]
+ [ 2.  2.  5.  1.  4.  4.  4.  4.]
+ [ 2.  5.  5.  3.  4.  3.  3.  4.]
+ [ 2.  5.  5.  3.  3.  3.  3.  4.]]
+    
+I have 8 cores in a shared memory space
+Manager 1.
+             Initial Best: 3.84908795357 
+             Local Search Best: 3.08334732056
+             My solution looks like:
+    [[ 8.  2.  2.  2.  2.  2.  2.  7.]
+ [ 8.  2.  2.  2.  2.  7.  7.  7.]
+ [ 8.  8.  8.  2.  5.  7.  7.  4.]
+ [ 3.  3.  8.  8.  5.  7.  5.  4.]
+ [ 6.  3.  3.  3.  5.  5.  5.  4.]
+ [ 6.  3.  1.  3.  5.  4.  4.  4.]
+ [ 6.  6.  1.  1.  1.  1.  1.  4.]
+ [ 6.  6.  6.  6.  1.  1.  1.  4.]]
+    
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 0 and I initially had 8.0 regions.  I now have 8.0 regions.
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 1 and I initially had 8.0 regions.  I now have 8.0 regions.
+Manager 0.
+             Initial Best: 3.56739997864 
+             Local Search Best: 3.06334471703
+             My solution looks like:
+    [[ 1.  1.  1.  4.  4.  4.  4.  3.]
+ [ 1.  1.  1.  1.  4.  3.  3.  3.]
+ [ 8.  8.  8.  4.  4.  4.  3.  5.]
+ [ 2.  8.  8.  8.  8.  3.  3.  5.]
+ [ 2.  2.  2.  2.  2.  3.  5.  5.]
+ [ 2.  2.  6.  6.  6.  6.  6.  5.]
+ [ 2.  7.  6.  7.  7.  6.  6.  5.]
+ [ 2.  7.  7.  7.  7.  7.  6.  5.]]
+    
+I have 8 cores in a shared memory space
+Manager 1.
+             Initial Best: 3.55367851257 
+             Local Search Best: 3.04472970963
+             My solution looks like:
+    [[ 5.  5.  5.  1.  1.  1.  1.  3.]
+ [ 5.  5.  1.  1.  1.  3.  3.  3.]
+ [ 5.  5.  8.  1.  1.  1.  3.  7.]
+ [ 2.  8.  8.  8.  8.  3.  3.  7.]
+ [ 2.  2.  2.  2.  8.  3.  7.  7.]
+ [ 2.  2.  4.  2.  8.  3.  6.  7.]
+ [ 4.  4.  4.  4.  6.  6.  6.  7.]
+ [ 4.  4.  4.  4.  6.  6.  6.  7.]]
+    
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 0 and I initially had 8.0 regions.  I now have 8.0 regions.
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 1 and I initially had 8.0 regions.  I now have 8.0 regions.
+Manager 1.
+             Initial Best: 3.85661077499 
+             Local Search Best: 3.17918801308
+             My solution looks like:
+    [[ 4.  3.  3.  3.  3.  3.  3.  1.]
+ [ 4.  3.  6.  6.  6.  1.  1.  1.]
+ [ 4.  4.  4.  6.  6.  6.  1.  2.]
+ [ 7.  4.  4.  4.  6.  1.  1.  2.]
+ [ 7.  7.  7.  7.  6.  8.  2.  2.]
+ [ 7.  7.  8.  8.  6.  8.  5.  2.]
+ [ 7.  5.  5.  8.  8.  8.  5.  2.]
+ [ 7.  5.  5.  5.  5.  5.  5.  2.]]
+    
+Manager 0.
+             Initial Best: 3.89769721031 
+             Local Search Best: 3.17678952217
+             My solution looks like:
+    [[ 5.  5.  5.  7.  6.  6.  6.  6.]
+ [ 5.  7.  7.  7.  7.  3.  3.  6.]
+ [ 5.  3.  3.  7.  7.  7.  3.  6.]
+ [ 5.  5.  3.  3.  3.  3.  3.  6.]
+ [ 5.  8.  8.  8.  8.  4.  4.  4.]
+ [ 8.  8.  2.  8.  1.  4.  1.  4.]
+ [ 2.  2.  2.  8.  1.  1.  1.  4.]
+ [ 2.  2.  2.  8.  8.  1.  1.  4.]]
+    
+I have 8 cores in a shared memory space
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 0 and I initially had 8.0 regions.  I now have 8.0 regions.
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 1 and I initially had 8.0 regions.  I now have 8.0 regions.
+Manager 0.
+             Initial Best: 3.67240405083 
+             Local Search Best: 3.23977589607
+             My solution looks like:
+    [[ 3.  6.  6.  6.  2.  2.  2.  1.]
+ [ 3.  6.  6.  6.  2.  1.  1.  1.]
+ [ 3.  3.  6.  7.  2.  2.  1.  1.]
+ [ 3.  3.  3.  7.  2.  5.  1.  1.]
+ [ 3.  7.  7.  7.  7.  5.  1.  1.]
+ [ 7.  7.  4.  7.  5.  5.  5.  5.]
+ [ 4.  4.  4.  4.  5.  8.  8.  5.]
+ [ 4.  4.  8.  8.  8.  8.  8.  5.]]
+    
+I have 8 cores in a shared memory space
+Manager 1.
+             Initial Best: 3.76807379723 
+             Local Search Best: 2.71946811676
+             My solution looks like:
+    [[ 4.  4.  4.  4.  3.  3.  3.  8.]
+ [ 4.  4.  4.  3.  3.  8.  8.  8.]
+ [ 6.  6.  6.  3.  3.  3.  8.  8.]
+ [ 7.  6.  6.  6.  6.  3.  3.  8.]
+ [ 7.  7.  7.  7.  7.  1.  1.  1.]
+ [ 7.  7.  2.  7.  5.  1.  5.  1.]
+ [ 2.  2.  2.  2.  5.  5.  5.  1.]
+ [ 2.  2.  2.  2.  5.  5.  5.  1.]]
+    
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 0 and I initially had 8.0 regions.  I now have 8.0 regions.
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 1 and I initially had 8.0 regions.  I now have 8.0 regions.
+Manager 0.
+             Initial Best: 3.85647964478 
+             Local Search Best: 3.10720133781
+             My solution looks like:
+    [[ 1.  1.  1.  1.  3.  3.  3.  3.]
+ [ 1.  2.  2.  1.  3.  5.  5.  5.]
+ [ 2.  2.  2.  1.  3.  3.  5.  5.]
+ [ 6.  2.  2.  8.  8.  8.  7.  5.]
+ [ 6.  6.  6.  4.  4.  8.  7.  5.]
+ [ 6.  6.  4.  4.  8.  8.  7.  5.]
+ [ 6.  4.  4.  8.  8.  7.  7.  5.]
+ [ 6.  4.  8.  8.  7.  7.  7.  5.]]
+    
+I have 8 cores in a shared memory space
+Manager 1.
+             Initial Best: 3.76713895798 
+             Local Search Best: 2.93420124054
+             My solution looks like:
+    [[ 1.  1.  1.  3.  8.  8.  8.  8.]
+ [ 1.  3.  3.  3.  3.  8.  8.  8.]
+ [ 1.  1.  1.  3.  3.  3.  8.  2.]
+ [ 5.  5.  1.  1.  2.  2.  2.  2.]
+ [ 7.  5.  5.  5.  5.  6.  6.  2.]
+ [ 7.  5.  7.  5.  6.  6.  6.  2.]
+ [ 7.  7.  7.  6.  6.  4.  4.  2.]
+ [ 7.  7.  4.  4.  4.  4.  4.  2.]]
+    
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 0 and I initially had 8.0 regions.  I now have 8.0 regions.
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 1 and I initially had 8.0 regions.  I now have 8.0 regions.
+Manager 0.
+             Initial Best: 3.50085020065 
+             Local Search Best: 3.05575203896
+             My solution looks like:
+    [[ 5.  5.  5.  4.  1.  1.  1.  1.]
+ [ 5.  4.  4.  4.  4.  1.  1.  1.]
+ [ 5.  5.  8.  4.  4.  4.  1.  1.]
+ [ 2.  5.  8.  8.  8.  8.  6.  6.]
+ [ 2.  2.  2.  2.  2.  8.  6.  6.]
+ [ 2.  2.  7.  2.  3.  8.  3.  6.]
+ [ 7.  7.  7.  3.  3.  3.  3.  6.]
+ [ 7.  7.  7.  7.  3.  6.  6.  6.]]
+    
+I have 8 cores in a shared memory space
+Manager 1.
+             Initial Best: 3.47799634933 
+             Local Search Best: 3.15987539291
+             My solution looks like:
+    [[ 8.  8.  8.  2.  2.  2.  2.  5.]
+ [ 8.  2.  2.  2.  2.  5.  5.  5.]
+ [ 8.  8.  8.  2.  6.  1.  5.  5.]
+ [ 6.  6.  6.  6.  6.  1.  1.  5.]
+ [ 6.  3.  3.  3.  1.  1.  1.  1.]
+ [ 3.  3.  4.  3.  1.  7.  1.  7.]
+ [ 3.  4.  4.  4.  7.  7.  7.  7.]
+ [ 3.  4.  4.  4.  4.  4.  4.  7.]]
+    
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 0 and I initially had 8.0 regions.  I now have 8.0 regions.
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 1 and I initially had 8.0 regions.  I now have 8.0 regions.
+Manager 1.
+             Initial Best: 3.9771232605 
+             Local Search Best: 2.98737382889
+             My solution looks like:
+    [[ 4.  4.  4.  4.  4.  4.  6.  6.]
+ [ 4.  4.  8.  2.  2.  6.  6.  6.]
+ [ 8.  8.  8.  2.  2.  2.  6.  6.]
+ [ 7.  7.  8.  8.  8.  2.  2.  2.]
+ [ 7.  5.  5.  5.  5.  3.  3.  2.]
+ [ 7.  5.  7.  5.  5.  3.  3.  3.]
+ [ 7.  7.  7.  1.  3.  3.  1.  3.]
+ [ 7.  7.  1.  1.  1.  1.  1.  3.]]
+    
+Manager 0.
+             Initial Best: 3.74457859993 
+             Local Search Best: 3.40899777412
+             My solution looks like:
+    [[ 5.  5.  5.  6.  2.  2.  2.  2.]
+ [ 5.  6.  6.  6.  6.  2.  2.  2.]
+ [ 5.  5.  5.  6.  6.  6.  2.  2.]
+ [ 4.  8.  8.  8.  6.  7.  2.  2.]
+ [ 4.  8.  8.  8.  6.  7.  7.  7.]
+ [ 4.  4.  1.  8.  1.  7.  3.  7.]
+ [ 4.  4.  1.  1.  1.  3.  3.  7.]
+ [ 4.  1.  1.  3.  3.  3.  3.  7.]]
+    
+I have 8 cores in a shared memory space
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 0 and I initially had 8.0 regions.  I now have 8.0 regions.
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 1 and I initially had 8.0 regions.  I now have 8.0 regions.
+Manager 0.
+             Initial Best: 4.00647974014 
+             Local Search Best: 3.36489987373
+             My solution looks like:
+    [[ 8.  8.  8.  8.  8.  8.  8.  7.]
+ [ 8.  8.  5.  1.  1.  7.  7.  7.]
+ [ 5.  5.  5.  5.  1.  7.  2.  2.]
+ [ 4.  4.  5.  5.  1.  7.  2.  2.]
+ [ 4.  1.  1.  1.  1.  7.  2.  2.]
+ [ 4.  4.  3.  1.  1.  6.  6.  2.]
+ [ 4.  3.  3.  3.  6.  6.  6.  6.]
+ [ 4.  3.  3.  3.  3.  3.  3.  6.]]
+    
+I have 8 cores in a shared memory space
+Manager 1.
+             Initial Best: 3.83401083946 
+             Local Search Best: 2.89665174484
+             My solution looks like:
+    [[ 6.  6.  6.  6.  6.  6.  2.  2.]
+ [ 5.  6.  8.  8.  8.  2.  2.  2.]
+ [ 5.  5.  5.  8.  8.  8.  8.  2.]
+ [ 7.  5.  5.  5.  8.  4.  8.  2.]
+ [ 7.  7.  7.  7.  7.  4.  4.  4.]
+ [ 7.  7.  1.  7.  3.  4.  3.  4.]
+ [ 1.  1.  1.  1.  3.  3.  3.  4.]
+ [ 1.  1.  1.  1.  3.  3.  3.  4.]]
+    
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 0 and I initially had 8.0 regions.  I now have 8.0 regions.
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 1 and I initially had 8.0 regions.  I now have 8.0 regions.
+Manager 1.
+             Initial Best: 3.93539810181 
+             Local Search Best: 2.75321912766
+             My solution looks like:
+    [[ 1.  1.  1.  7.  7.  7.  7.  5.]
+ [ 1.  7.  7.  7.  7.  5.  5.  5.]
+ [ 1.  1.  1.  7.  2.  2.  5.  5.]
+ [ 8.  8.  1.  1.  2.  2.  2.  5.]
+ [ 8.  6.  6.  6.  6.  3.  2.  2.]
+ [ 8.  6.  6.  6.  3.  3.  3.  3.]
+ [ 8.  8.  4.  4.  3.  4.  4.  3.]
+ [ 8.  8.  8.  4.  4.  4.  4.  3.]]
+    
+Manager 0.
+             Initial Best: 3.87206244469 
+             Local Search Best: 3.14575099945
+             My solution looks like:
+    [[ 7.  7.  7.  7.  4.  4.  4.  4.]
+ [ 7.  7.  7.  7.  8.  4.  4.  2.]
+ [ 3.  3.  3.  7.  8.  8.  4.  2.]
+ [ 3.  3.  3.  3.  8.  8.  8.  2.]
+ [ 3.  5.  5.  5.  5.  2.  8.  2.]
+ [ 5.  5.  1.  5.  6.  2.  2.  2.]
+ [ 5.  1.  1.  1.  6.  6.  6.  2.]
+ [ 5.  1.  1.  1.  6.  6.  6.  2.]]
+    
+I have 8 cores in a shared memory space
+The local solutions on rank 1 are inferior to the global best p. Updating...
+My soln space looks like: [ 9.  9.  9.  9.  9.  9.  9.  9.]
+I am manager 0 and I initially had 9.0 regions.  I now have 9.0 regions.
+My soln space looks like: [ 9.  9.  9.  9.  9.  9.  9.  9.]
+I am manager 1 and I initially had 8.0 regions.  I now have 9.0 regions.
+Manager 1.
+             Initial Best: 3.47337388992 
+             Local Search Best: 3.38286185265
+             My solution looks like:
+    [[ 3.  3.  3.  9.  4.  4.  4.  4.]
+ [ 3.  9.  9.  9.  9.  4.  4.  4.]
+ [ 3.  3.  3.  9.  9.  9.  8.  8.]
+ [ 7.  7.  7.  5.  5.  5.  2.  8.]
+ [ 7.  1.  7.  7.  7.  5.  2.  8.]
+ [ 1.  1.  1.  6.  5.  5.  2.  8.]
+ [ 1.  6.  6.  6.  5.  2.  2.  8.]
+ [ 1.  1.  6.  6.  6.  2.  2.  8.]]
+    
+Manager 0.
+             Initial Best: 3.47337388992 
+             Local Search Best: 3.38286185265
+             My solution looks like:
+    [[ 3.  3.  3.  9.  4.  4.  4.  4.]
+ [ 3.  9.  9.  9.  9.  4.  4.  4.]
+ [ 3.  3.  3.  9.  9.  9.  8.  8.]
+ [ 7.  7.  7.  5.  5.  5.  2.  8.]
+ [ 7.  1.  7.  7.  7.  5.  2.  8.]
+ [ 1.  1.  1.  6.  5.  5.  2.  8.]
+ [ 1.  6.  6.  6.  5.  2.  2.  8.]
+ [ 1.  1.  6.  6.  6.  2.  2.  8.]]
+    
+I have 8 cores in a shared memory space
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 0 and I initially had 8.0 regions.  I now have 8.0 regions.
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 1 and I initially had 8.0 regions.  I now have 8.0 regions.
+Manager 1.
+             Initial Best: 3.82078361511 
+             Local Search Best: 3.01541590691
+             My solution looks like:
+    [[ 7.  8.  8.  8.  8.  8.  8.  5.]
+ [ 7.  8.  6.  6.  6.  5.  5.  5.]
+ [ 7.  7.  7.  6.  2.  2.  5.  5.]
+ [ 4.  7.  7.  6.  2.  2.  2.  5.]
+ [ 4.  4.  6.  6.  2.  1.  2.  2.]
+ [ 4.  4.  3.  6.  2.  1.  1.  1.]
+ [ 4.  3.  3.  3.  1.  1.  3.  1.]
+ [ 4.  3.  3.  3.  3.  3.  3.  1.]]
+    
+Manager 0.
+             Initial Best: 3.63228607178 
+             Local Search Best: 3.24815034866
+             My solution looks like:
+    [[ 1.  3.  3.  3.  3.  3.  3.  5.]
+ [ 1.  2.  2.  2.  2.  3.  5.  5.]
+ [ 1.  1.  1.  2.  2.  2.  5.  5.]
+ [ 1.  1.  1.  1.  8.  6.  5.  5.]
+ [ 1.  4.  4.  4.  8.  6.  5.  5.]
+ [ 4.  4.  4.  4.  8.  6.  6.  6.]
+ [ 7.  7.  4.  7.  8.  8.  8.  6.]
+ [ 7.  7.  7.  7.  8.  8.  8.  6.]]
+    
+I have 8 cores in a shared memory space
+The local solutions on rank 1 are inferior to the global best p. Updating...
+My soln space looks like: [ 9.  9.  9.  9.  9.  9.  9.  9.]
+I am manager 0 and I initially had 9.0 regions.  I now have 9.0 regions.
+My soln space looks like: [ 9.  9.  9.  9.  9.  9.  9.  9.]
+I am manager 1 and I initially had 8.0 regions.  I now have 9.0 regions.
+Manager 1.
+             Initial Best: 3.94565677643 
+             Local Search Best: 3.89176154137
+             My solution looks like:
+    [[ 6.  6.  6.  4.  9.  9.  9.  9.]
+ [ 6.  6.  4.  4.  4.  9.  9.  9.]
+ [ 7.  6.  6.  4.  5.  5.  5.  3.]
+ [ 7.  7.  7.  4.  5.  2.  5.  3.]
+ [ 7.  7.  7.  4.  5.  2.  3.  3.]
+ [ 1.  1.  1.  1.  5.  2.  2.  3.]
+ [ 1.  8.  1.  2.  2.  2.  8.  3.]
+ [ 1.  8.  8.  8.  8.  8.  8.  3.]]
+    
+Manager 0.
+             Initial Best: 4.0035610199 
+             Local Search Best: 3.41265535355
+             My solution looks like:
+    [[ 6.  6.  6.  4.  4.  4.  4.  9.]
+ [ 6.  6.  4.  4.  5.  9.  9.  9.]
+ [ 7.  6.  6.  4.  5.  5.  9.  9.]
+ [ 7.  7.  7.  7.  5.  2.  3.  9.]
+ [ 7.  7.  5.  5.  5.  2.  3.  3.]
+ [ 1.  1.  1.  1.  1.  2.  2.  3.]
+ [ 1.  8.  1.  2.  2.  2.  3.  3.]
+ [ 1.  8.  8.  8.  8.  8.  8.  3.]]
+    
+I have 8 cores in a shared memory space
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 0 and I initially had 8.0 regions.  I now have 8.0 regions.
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 1 and I initially had 8.0 regions.  I now have 8.0 regions.
+Manager 0.
+             Initial Best: 3.35414195061 
+             Local Search Best: 2.98586821556
+             My solution looks like:
+    [[ 5.  5.  5.  4.  4.  4.  4.  3.]
+ [ 5.  4.  4.  4.  4.  3.  3.  3.]
+ [ 5.  7.  7.  4.  4.  4.  3.  3.]
+ [ 5.  5.  7.  7.  7.  7.  6.  3.]
+ [ 1.  2.  2.  2.  2.  7.  6.  6.]
+ [ 1.  2.  1.  2.  6.  6.  6.  8.]
+ [ 1.  1.  1.  2.  8.  6.  6.  8.]
+ [ 1.  8.  8.  8.  8.  8.  8.  8.]]
+    
+I have 8 cores in a shared memory space
+Manager 1.
+             Initial Best: 4.01430130005 
+             Local Search Best: 3.23168921471
+             My solution looks like:
+    [[ 7.  7.  7.  7.  7.  7.  7.  6.]
+ [ 1.  7.  1.  7.  7.  6.  6.  6.]
+ [ 1.  1.  1.  8.  8.  8.  6.  5.]
+ [ 1.  8.  8.  8.  8.  6.  6.  5.]
+ [ 1.  2.  2.  2.  2.  6.  5.  5.]
+ [ 2.  2.  3.  2.  4.  4.  4.  5.]
+ [ 2.  3.  3.  3.  3.  4.  4.  5.]
+ [ 2.  3.  3.  3.  4.  4.  4.  5.]]
+    
+My soln space looks like: [ 9.  9.  9.  9.  9.  9.  9.  9.]
+I am manager 0 and I initially had 9.0 regions.  I now have 9.0 regions.
+The local solutions on rank 1 are inferior to the global best p. Updating...
+My soln space looks like: [ 9.  9.  9.  9.  9.  9.  9.  9.]
+I am manager 1 and I initially had 8.0 regions.  I now have 9.0 regions.
+Manager 1.
+             Initial Best: 3.72014951706 
+             Local Search Best: 3.72014951706
+             My solution looks like:
+    [[ 7.  7.  4.  4.  4.  4.  4.  4.]
+ [ 1.  7.  7.  7.  4.  2.  2.  2.]
+ [ 1.  1.  1.  7.  7.  6.  2.  2.]
+ [ 3.  1.  1.  6.  6.  6.  8.  2.]
+ [ 3.  3.  1.  1.  6.  8.  8.  2.]
+ [ 3.  3.  5.  6.  6.  9.  8.  8.]
+ [ 3.  3.  5.  9.  9.  9.  8.  8.]
+ [ 5.  5.  5.  5.  5.  9.  9.  9.]]
+    
+Manager 0.
+             Initial Best: 3.54604005814 
+             Local Search Best: 3.54604005814
+             My solution looks like:
+    [[ 7.  7.  4.  4.  4.  4.  4.  4.]
+ [ 1.  7.  7.  7.  4.  2.  2.  2.]
+ [ 1.  1.  1.  7.  7.  6.  2.  2.]
+ [ 3.  1.  1.  6.  6.  6.  8.  2.]
+ [ 3.  3.  1.  6.  6.  8.  8.  2.]
+ [ 3.  3.  5.  6.  6.  9.  8.  8.]
+ [ 3.  3.  5.  9.  9.  9.  8.  8.]
+ [ 5.  5.  5.  5.  5.  9.  9.  9.]]
+    
+I have 8 cores in a shared memory space
+My soln space looks like: [ 9.  9.  9.  9.  9.  9.  9.  9.]
+I am manager 0 and I initially had 9.0 regions.  I now have 9.0 regions.
+My soln space looks like: [ 9.  9.  9.  9.  9.  9.  9.  9.]
+I am manager 1 and I initially had 9.0 regions.  I now have 9.0 regions.
+Manager 0.
+             Initial Best: 3.83657979965 
+             Local Search Best: 3.55525279045
+             My solution looks like:
+    [[ 8.  8.  8.  8.  8.  9.  9.  9.]
+ [ 8.  4.  4.  4.  6.  9.  9.  1.]
+ [ 8.  4.  4.  4.  6.  9.  9.  1.]
+ [ 5.  5.  4.  6.  6.  6.  2.  1.]
+ [ 7.  5.  5.  5.  5.  6.  2.  1.]
+ [ 7.  5.  3.  5.  3.  6.  2.  1.]
+ [ 7.  3.  3.  3.  3.  3.  2.  1.]
+ [ 7.  7.  7.  7.  2.  2.  2.  1.]]
+    
+I have 8 cores in a shared memory space
+Manager 1.
+             Initial Best: 3.60569930077 
+             Local Search Best: 3.56484746933
+             My solution looks like:
+    [[ 6.  8.  8.  8.  4.  4.  4.  4.]
+ [ 6.  8.  8.  8.  3.  4.  4.  9.]
+ [ 6.  6.  6.  8.  3.  3.  4.  9.]
+ [ 2.  2.  6.  6.  3.  9.  9.  9.]
+ [ 2.  2.  2.  3.  3.  9.  7.  9.]
+ [ 2.  5.  2.  3.  1.  7.  7.  7.]
+ [ 5.  5.  5.  5.  1.  1.  7.  7.]
+ [ 5.  5.  1.  1.  1.  1.  1.  7.]]
+    
+My soln space looks like: [ 9.  9.  9.  9.  9.  9.  9.  9.]
+I am manager 0 and I initially had 9.0 regions.  I now have 9.0 regions.
+The local solutions on rank 1 are inferior to the global best p. Updating...
+My soln space looks like: [ 9.  9.  9.  9.  9.  9.  9.  9.]
+I am manager 1 and I initially had 8.0 regions.  I now have 9.0 regions.
+Manager 0.
+             Initial Best: 3.68374371529 
+             Local Search Best: 3.14513993263
+             My solution looks like:
+    [[ 6.  3.  3.  3.  2.  2.  2.  1.]
+ [ 6.  3.  3.  3.  3.  2.  1.  1.]
+ [ 6.  6.  6.  8.  2.  2.  1.  5.]
+ [ 7.  6.  6.  8.  2.  1.  1.  5.]
+ [ 7.  7.  8.  8.  8.  1.  5.  5.]
+ [ 7.  7.  4.  8.  8.  1.  9.  5.]
+ [ 7.  4.  4.  4.  4.  9.  9.  5.]
+ [ 7.  4.  4.  9.  9.  9.  9.  5.]]
+    
+I have 8 cores in a shared memory space
+Manager 1.
+             Initial Best: 3.70983767509 
+             Local Search Best: 3.34272289276
+             My solution looks like:
+    [[ 6.  6.  6.  4.  7.  7.  7.  7.]
+ [ 6.  4.  4.  4.  4.  7.  7.  7.]
+ [ 6.  6.  1.  4.  4.  4.  8.  8.]
+ [ 5.  6.  1.  1.  1.  1.  8.  8.]
+ [ 5.  5.  5.  5.  5.  1.  3.  8.]
+ [ 9.  9.  9.  9.  5.  1.  3.  8.]
+ [ 9.  9.  2.  2.  2.  3.  3.  8.]
+ [ 9.  2.  2.  2.  2.  3.  3.  3.]]
+    
+The local solutions on rank 0 are inferior to the global best p. Updating...
+My soln space looks like: [ 9.  9.  9.  9.  9.  9.  9.  9.]
+I am manager 0 and I initially had 8.0 regions.  I now have 9.0 regions.
+My soln space looks like: [ 9.  9.  9.  9.  9.  9.  9.  9.]
+I am manager 1 and I initially had 9.0 regions.  I now have 9.0 regions.
+Manager 1.
+             Initial Best: 4.00098848343 
+             Local Search Best: 4.00098848343
+             My solution looks like:
+    [[ 6.  6.  6.  6.  7.  7.  1.  1.]
+ [ 6.  6.  2.  6.  6.  7.  7.  1.]
+ [ 2.  2.  2.  2.  2.  7.  7.  1.]
+ [ 4.  4.  4.  4.  2.  7.  1.  1.]
+ [ 8.  4.  4.  4.  9.  9.  9.  1.]
+ [ 8.  8.  8.  9.  9.  9.  9.  5.]
+ [ 8.  8.  3.  3.  3.  3.  5.  5.]
+ [ 8.  3.  3.  3.  5.  5.  5.  5.]]
+    
+Manager 0.
+             Initial Best: 4.00098848343 
+             Local Search Best: 4.00098848343
+             My solution looks like:
+    [[ 6.  6.  6.  6.  7.  7.  1.  1.]
+ [ 6.  6.  2.  6.  6.  7.  7.  1.]
+ [ 2.  2.  2.  2.  2.  7.  7.  1.]
+ [ 4.  4.  4.  4.  2.  7.  1.  1.]
+ [ 8.  4.  4.  4.  9.  9.  9.  1.]
+ [ 8.  8.  8.  9.  9.  9.  9.  5.]
+ [ 8.  8.  3.  3.  3.  3.  5.  5.]
+ [ 8.  3.  3.  3.  5.  5.  5.  5.]]
+    
+I have 8 cores in a shared memory space
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 0 and I initially had 8.0 regions.  I now have 8.0 regions.
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 1 and I initially had 8.0 regions.  I now have 8.0 regions.
+Manager 0.
+             Initial Best: 3.9199590683 
+             Local Search Best: 3.11481332779
+             My solution looks like:
+    [[ 7.  7.  7.  7.  7.  7.  7.  6.]
+ [ 7.  7.  7.  7.  7.  6.  6.  6.]
+ [ 5.  5.  5.  1.  1.  1.  6.  6.]
+ [ 4.  5.  5.  5.  5.  1.  1.  6.]
+ [ 4.  4.  4.  4.  8.  1.  1.  2.]
+ [ 4.  4.  3.  4.  8.  2.  2.  2.]
+ [ 4.  3.  3.  3.  8.  8.  2.  2.]
+ [ 4.  3.  3.  3.  8.  8.  8.  2.]]
+    
+I have 8 cores in a shared memory space
+Manager 1.
+             Initial Best: 3.62215328217 
+             Local Search Best: 3.15141582489
+             My solution looks like:
+    [[ 4.  4.  4.  6.  7.  7.  7.  7.]
+ [ 4.  6.  6.  6.  3.  7.  7.  7.]
+ [ 4.  4.  4.  6.  3.  3.  3.  7.]
+ [ 1.  6.  6.  6.  6.  8.  3.  3.]
+ [ 1.  1.  1.  1.  1.  8.  8.  3.]
+ [ 1.  1.  5.  1.  2.  2.  8.  8.]
+ [ 1.  5.  5.  5.  5.  2.  2.  8.]
+ [ 1.  5.  5.  5.  2.  2.  2.  8.]]
+    
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 0 and I initially had 8.0 regions.  I now have 8.0 regions.
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 1 and I initially had 8.0 regions.  I now have 8.0 regions.
+Manager 0.
+             Initial Best: 3.9658062458 
+             Local Search Best: 3.11093378067
+             My solution looks like:
+    [[ 5.  6.  6.  6.  6.  6.  6.  3.]
+ [ 5.  6.  2.  2.  2.  3.  3.  3.]
+ [ 5.  5.  5.  2.  2.  2.  3.  3.]
+ [ 1.  1.  5.  5.  2.  2.  2.  3.]
+ [ 1.  4.  4.  4.  4.  8.  3.  3.]
+ [ 1.  1.  1.  4.  4.  8.  8.  8.]
+ [ 1.  1.  7.  4.  8.  8.  7.  8.]
+ [ 7.  7.  7.  7.  7.  7.  7.  8.]]
+    
+I have 8 cores in a shared memory space
+Manager 1.
+             Initial Best: 3.83654546738 
+             Local Search Best: 2.9365503788
+             My solution looks like:
+    [[ 8.  8.  8.  8.  5.  5.  5.  6.]
+ [ 8.  8.  8.  5.  5.  6.  6.  6.]
+ [ 4.  4.  4.  5.  5.  5.  5.  6.]
+ [ 4.  4.  4.  4.  5.  3.  5.  6.]
+ [ 4.  2.  2.  2.  2.  3.  6.  6.]
+ [ 2.  2.  2.  2.  7.  3.  3.  3.]
+ [ 1.  1.  2.  1.  7.  7.  7.  3.]
+ [ 1.  1.  1.  1.  7.  7.  7.  3.]]
+    
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 0 and I initially had 8.0 regions.  I now have 8.0 regions.
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 1 and I initially had 8.0 regions.  I now have 8.0 regions.
+Manager 1.
+             Initial Best: 3.55542087555 
+             Local Search Best: 3.24189972878
+             My solution looks like:
+    [[ 2.  2.  2.  2.  2.  2.  2.  4.]
+ [ 2.  2.  7.  7.  7.  4.  4.  4.]
+ [ 3.  3.  3.  3.  7.  7.  4.  4.]
+ [ 5.  3.  3.  3.  7.  6.  6.  4.]
+ [ 5.  7.  7.  7.  7.  6.  6.  8.]
+ [ 5.  7.  1.  1.  6.  6.  6.  8.]
+ [ 5.  5.  5.  1.  1.  8.  8.  8.]
+ [ 5.  1.  1.  1.  8.  8.  8.  8.]]
+    
+Manager 0.
+             Initial Best: 3.93758034706 
+             Local Search Best: 3.05973815918
+             My solution looks like:
+    [[ 8.  8.  5.  1.  4.  4.  4.  4.]
+ [ 8.  8.  5.  1.  1.  4.  4.  4.]
+ [ 8.  5.  5.  1.  1.  1.  1.  4.]
+ [ 8.  5.  5.  5.  1.  6.  1.  4.]
+ [ 8.  2.  2.  2.  2.  6.  6.  6.]
+ [ 2.  2.  7.  2.  3.  6.  3.  6.]
+ [ 7.  7.  7.  7.  3.  3.  3.  6.]
+ [ 7.  7.  7.  7.  3.  3.  3.  6.]]
+    
+I have 8 cores in a shared memory space
+My soln space looks like: [ 9.  9.  9.  9.  9.  9.  9.  9.]
+I am manager 0 and I initially had 9.0 regions.  I now have 9.0 regions.
+The local solutions on rank 1 are inferior to the global best p. Updating...
+My soln space looks like: [ 9.  9.  9.  9.  9.  9.  9.  9.]
+I am manager 1 and I initially had 8.0 regions.  I now have 9.0 regions.
+Manager 1.
+             Initial Best: 3.65027356148 
+             Local Search Best: 3.65027356148
+             My solution looks like:
+    [[ 6.  6.  6.  6.  8.  8.  8.  8.]
+ [ 9.  9.  3.  6.  6.  8.  8.  8.]
+ [ 9.  9.  3.  6.  3.  3.  7.  7.]
+ [ 9.  9.  3.  3.  3.  1.  7.  7.]
+ [ 9.  5.  5.  5.  1.  1.  1.  7.]
+ [ 5.  5.  2.  2.  2.  1.  1.  7.]
+ [ 5.  2.  2.  2.  4.  1.  1.  7.]
+ [ 5.  2.  4.  4.  4.  4.  4.  4.]]
+    
+Manager 0.
+             Initial Best: 3.63716936111 
+             Local Search Best: 3.63716936111
+             My solution looks like:
+    [[ 6.  6.  6.  6.  8.  8.  8.  8.]
+ [ 9.  9.  3.  6.  6.  8.  8.  8.]
+ [ 9.  9.  3.  6.  3.  3.  7.  7.]
+ [ 9.  9.  3.  3.  3.  3.  7.  7.]
+ [ 9.  5.  5.  5.  1.  1.  1.  7.]
+ [ 5.  5.  2.  2.  2.  1.  1.  7.]
+ [ 5.  2.  2.  2.  4.  1.  1.  7.]
+ [ 5.  2.  4.  4.  4.  4.  4.  4.]]
+    
+I have 8 cores in a shared memory space
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 0 and I initially had 8.0 regions.  I now have 8.0 regions.
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 1 and I initially had 8.0 regions.  I now have 8.0 regions.
+Manager 0.
+             Initial Best: 3.86669278145 
+             Local Search Best: 3.20429730415
+             My solution looks like:
+    [[ 2.  1.  1.  1.  7.  7.  7.  6.]
+ [ 2.  1.  1.  1.  7.  6.  6.  6.]
+ [ 2.  2.  1.  7.  7.  7.  6.  8.]
+ [ 5.  2.  2.  2.  3.  6.  6.  8.]
+ [ 5.  5.  5.  5.  3.  6.  8.  8.]
+ [ 5.  5.  4.  5.  3.  3.  3.  8.]
+ [ 5.  4.  4.  4.  4.  3.  3.  8.]
+ [ 5.  4.  4.  4.  4.  4.  3.  8.]]
+    
+I have 8 cores in a shared memory space
+Manager 1.
+             Initial Best: 3.48145318031 
+             Local Search Best: 3.10909795761
+             My solution looks like:
+    [[ 6.  6.  6.  4.  4.  4.  4.  1.]
+ [ 6.  4.  4.  4.  4.  1.  1.  1.]
+ [ 6.  8.  8.  4.  4.  5.  1.  1.]
+ [ 6.  6.  8.  8.  5.  5.  5.  1.]
+ [ 8.  8.  8.  5.  5.  2.  5.  5.]
+ [ 3.  3.  8.  5.  2.  2.  2.  2.]
+ [ 3.  3.  3.  3.  2.  7.  7.  2.]
+ [ 3.  3.  7.  7.  7.  7.  7.  2.]]
+    
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 0 and I initially had 8.0 regions.  I now have 8.0 regions.
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 1 and I initially had 8.0 regions.  I now have 8.0 regions.
+Manager 1.
+             Initial Best: 4.18131446838 
+             Local Search Best: 3.37973976135
+             My solution looks like:
+    [[ 6.  6.  6.  6.  6.  6.  6.  7.]
+ [ 6.  6.  6.  6.  6.  7.  7.  7.]
+ [ 4.  4.  4.  6.  2.  2.  7.  7.]
+ [ 4.  4.  4.  4.  2.  2.  7.  5.]
+ [ 4.  1.  1.  1.  1.  2.  2.  5.]
+ [ 1.  1.  3.  1.  3.  2.  5.  5.]
+ [ 8.  8.  3.  3.  3.  3.  5.  5.]
+ [ 8.  8.  8.  8.  8.  3.  3.  5.]]
+    
+Manager 0.
+             Initial Best: 4.14192485809 
+             Local Search Best: 3.14575362206
+             My solution looks like:
+    [[ 8.  4.  4.  7.  7.  7.  7.  3.]
+ [ 8.  4.  4.  4.  7.  5.  5.  3.]
+ [ 8.  8.  8.  4.  7.  7.  5.  3.]
+ [ 8.  8.  8.  4.  4.  5.  5.  3.]
+ [ 8.  2.  2.  2.  2.  5.  5.  3.]
+ [ 2.  2.  6.  2.  1.  1.  1.  3.]
+ [ 6.  6.  6.  6.  6.  1.  1.  3.]
+ [ 6.  6.  6.  6.  1.  1.  1.  3.]]
+    
+I have 8 cores in a shared memory space
+My soln space looks like: [ 9.  9.  9.  9.  9.  9.  9.  9.]
+I am manager 0 and I initially had 9.0 regions.  I now have 9.0 regions.
+The local solutions on rank 1 are inferior to the global best p. Updating...
+My soln space looks like: [ 9.  9.  9.  9.  9.  9.  9.  9.]
+I am manager 1 and I initially had 8.0 regions.  I now have 9.0 regions.
+Manager 1.
+             Initial Best: 3.92899012566 
+             Local Search Best: 3.92899012566
+             My solution looks like:
+    [[ 1.  1.  5.  2.  2.  2.  2.  2.]
+ [ 1.  1.  5.  5.  2.  2.  7.  7.]
+ [ 1.  5.  5.  5.  3.  3.  7.  7.]
+ [ 1.  1.  4.  5.  4.  3.  3.  7.]
+ [ 8.  4.  4.  4.  4.  3.  7.  7.]
+ [ 8.  6.  6.  6.  4.  3.  3.  9.]
+ [ 8.  8.  8.  6.  9.  9.  9.  9.]
+ [ 8.  8.  6.  6.  6.  9.  9.  9.]]
+    
+Manager 0.
+             Initial Best: 3.92899012566 
+             Local Search Best: 3.92899012566
+             My solution looks like:
+    [[ 1.  1.  5.  2.  2.  2.  2.  2.]
+ [ 1.  1.  5.  5.  2.  2.  7.  7.]
+ [ 1.  5.  5.  5.  3.  3.  7.  7.]
+ [ 1.  1.  4.  5.  4.  3.  3.  7.]
+ [ 8.  4.  4.  4.  4.  3.  7.  7.]
+ [ 8.  6.  6.  6.  4.  3.  3.  9.]
+ [ 8.  8.  8.  6.  9.  9.  9.  9.]
+ [ 8.  8.  6.  6.  6.  9.  9.  9.]]
+    
+I have 8 cores in a shared memory space
+My soln space looks like: [ 9.  9.  9.  9.  9.  9.  9.  9.]
+I am manager 0 and I initially had 9.0 regions.  I now have 9.0 regions.
+The local solutions on rank 1 are inferior to the global best p. Updating...
+My soln space looks like: [ 9.  9.  9.  9.  9.  9.  9.  9.]
+I am manager 1 and I initially had 8.0 regions.  I now have 9.0 regions.
+Manager 1.
+             Initial Best: 4.1200056076 
+             Local Search Best: 4.1200056076
+             My solution looks like:
+    [[ 7.  7.  7.  7.  9.  9.  9.  9.]
+ [ 7.  7.  7.  5.  5.  9.  9.  9.]
+ [ 4.  4.  5.  5.  5.  5.  5.  5.]
+ [ 4.  4.  4.  6.  6.  6.  8.  8.]
+ [ 3.  4.  6.  6.  8.  8.  8.  8.]
+ [ 3.  4.  6.  6.  2.  1.  8.  1.]
+ [ 3.  3.  2.  2.  2.  1.  1.  1.]
+ [ 3.  3.  3.  2.  2.  2.  1.  1.]]
+    
+Manager 0.
+             Initial Best: 4.05091810226 
+             Local Search Best: 3.75573611259
+             My solution looks like:
+    [[ 8.  8.  8.  7.  7.  7.  2.  2.]
+ [ 8.  7.  7.  7.  7.  1.  2.  2.]
+ [ 8.  8.  8.  4.  1.  1.  1.  2.]
+ [ 4.  4.  4.  4.  1.  1.  1.  2.]
+ [ 4.  6.  4.  6.  6.  9.  9.  2.]
+ [ 6.  6.  6.  6.  3.  9.  9.  9.]
+ [ 5.  5.  6.  5.  3.  3.  3.  9.]
+ [ 5.  5.  5.  5.  3.  3.  3.  9.]]
+    
+I have 8 cores in a shared memory space
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 0 and I initially had 8.0 regions.  I now have 8.0 regions.
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 1 and I initially had 8.0 regions.  I now have 8.0 regions.
+Manager 0.
+             Initial Best: 3.79396247864 
+             Local Search Best: 2.95913934708
+             My solution looks like:
+    [[ 6.  1.  1.  1.  1.  1.  1.  1.]
+ [ 6.  6.  6.  6.  6.  3.  3.  3.]
+ [ 5.  5.  5.  6.  3.  3.  3.  3.]
+ [ 8.  8.  5.  5.  5.  5.  7.  7.]
+ [ 2.  8.  8.  8.  8.  5.  7.  7.]
+ [ 2.  8.  4.  8.  4.  5.  4.  7.]
+ [ 2.  2.  4.  4.  4.  4.  4.  7.]
+ [ 2.  2.  2.  2.  4.  4.  4.  7.]]
+    
+I have 8 cores in a shared memory space
+Manager 1.
+             Initial Best: 3.86446905136 
+             Local Search Best: 3.27115654945
+             My solution looks like:
+    [[ 3.  3.  3.  6.  5.  5.  5.  5.]
+ [ 3.  6.  6.  6.  6.  5.  5.  5.]
+ [ 3.  3.  3.  6.  6.  6.  5.  5.]
+ [ 2.  2.  3.  3.  1.  4.  4.  4.]
+ [ 7.  2.  2.  2.  1.  8.  4.  4.]
+ [ 7.  2.  1.  2.  1.  8.  4.  8.]
+ [ 7.  7.  1.  1.  1.  8.  4.  8.]
+ [ 7.  7.  7.  7.  7.  8.  8.  8.]]
+    
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 0 and I initially had 8.0 regions.  I now have 8.0 regions.
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 1 and I initially had 8.0 regions.  I now have 8.0 regions.
+Manager 0.
+             Initial Best: 4.04938316345 
+             Local Search Best: 2.81871080399
+             My solution looks like:
+    [[ 5.  7.  7.  7.  7.  7.  7.  8.]
+ [ 5.  7.  4.  4.  4.  8.  8.  8.]
+ [ 5.  5.  5.  4.  4.  4.  3.  8.]
+ [ 1.  1.  5.  5.  4.  3.  3.  8.]
+ [ 1.  1.  1.  4.  4.  3.  3.  8.]
+ [ 1.  1.  2.  4.  2.  3.  3.  8.]
+ [ 2.  2.  2.  2.  2.  6.  6.  8.]
+ [ 6.  6.  6.  6.  6.  6.  6.  8.]]
+    
+I have 8 cores in a shared memory space
+Manager 1.
+             Initial Best: 4.08208847046 
+             Local Search Best: 3.21747136116
+             My solution looks like:
+    [[ 3.  3.  3.  4.  4.  4.  4.  2.]
+ [ 3.  4.  4.  4.  4.  1.  2.  2.]
+ [ 3.  8.  8.  1.  1.  1.  1.  2.]
+ [ 3.  3.  8.  8.  8.  8.  1.  2.]
+ [ 3.  6.  6.  6.  6.  8.  1.  2.]
+ [ 6.  6.  6.  6.  7.  8.  5.  2.]
+ [ 6.  7.  6.  7.  7.  5.  5.  2.]
+ [ 6.  7.  7.  7.  5.  5.  5.  5.]]
+    
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 0 and I initially had 8.0 regions.  I now have 8.0 regions.
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 1 and I initially had 8.0 regions.  I now have 8.0 regions.
+Manager 1.
+             Initial Best: 3.82882761955 
+             Local Search Best: 2.67050242424
+             My solution looks like:
+    [[ 6.  6.  6.  6.  6.  6.  6.  8.]
+ [ 2.  2.  2.  2.  2.  8.  8.  8.]
+ [ 1.  1.  1.  2.  2.  2.  8.  5.]
+ [ 1.  1.  1.  1.  2.  8.  8.  5.]
+ [ 1.  4.  4.  4.  4.  8.  5.  5.]
+ [ 4.  4.  7.  4.  3.  8.  3.  5.]
+ [ 7.  7.  7.  7.  3.  3.  3.  5.]
+ [ 7.  7.  7.  7.  3.  3.  3.  5.]]
+    
+Manager 0.
+             Initial Best: 3.99754309654 
+             Local Search Best: 2.90236282349
+             My solution looks like:
+    [[ 7.  7.  7.  7.  7.  6.  6.  2.]
+ [ 7.  7.  6.  6.  6.  6.  2.  2.]
+ [ 1.  1.  1.  6.  6.  6.  2.  2.]
+ [ 5.  1.  1.  1.  1.  3.  2.  2.]
+ [ 5.  5.  5.  5.  5.  3.  3.  3.]
+ [ 5.  5.  8.  5.  4.  3.  4.  3.]
+ [ 5.  8.  8.  8.  4.  4.  4.  3.]
+ [ 5.  8.  8.  8.  4.  4.  4.  3.]]
+    
+I have 8 cores in a shared memory space
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 0 and I initially had 8.0 regions.  I now have 8.0 regions.
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 1 and I initially had 8.0 regions.  I now have 8.0 regions.
+Manager 1.
+             Initial Best: 3.8065674305 
+             Local Search Best: 3.01715564728
+             My solution looks like:
+    [[ 8.  8.  8.  8.  7.  7.  7.  6.]
+ [ 8.  8.  8.  7.  7.  6.  6.  6.]
+ [ 1.  1.  1.  7.  7.  5.  6.  6.]
+ [ 4.  4.  1.  1.  5.  5.  5.  6.]
+ [ 4.  4.  1.  5.  5.  2.  2.  2.]
+ [ 4.  4.  1.  5.  5.  2.  3.  2.]
+ [ 4.  4.  4.  2.  2.  2.  3.  2.]
+ [ 4.  3.  3.  3.  3.  3.  3.  2.]]
+    
+Manager 0.
+             Initial Best: 3.72078227997 
+             Local Search Best: 2.95869326591
+             My solution looks like:
+    [[ 3.  3.  3.  6.  6.  6.  6.  4.]
+ [ 3.  6.  6.  6.  6.  4.  4.  4.]
+ [ 3.  3.  3.  6.  6.  4.  4.  4.]
+ [ 5.  5.  1.  1.  1.  1.  8.  8.]
+ [ 7.  5.  5.  5.  5.  1.  8.  8.]
+ [ 7.  7.  7.  5.  1.  1.  8.  8.]
+ [ 7.  7.  2.  2.  1.  2.  2.  8.]
+ [ 7.  7.  7.  2.  2.  2.  2.  8.]]
+    
+I have 8 cores in a shared memory space
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 0 and I initially had 8.0 regions.  I now have 8.0 regions.
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 1 and I initially had 8.0 regions.  I now have 8.0 regions.
+Manager 1.
+             Initial Best: 4.02458381653 
+             Local Search Best: 3.09094977379
+             My solution looks like:
+    [[ 4.  4.  4.  8.  8.  8.  8.  7.]
+ [ 4.  8.  8.  8.  8.  7.  7.  7.]
+ [ 4.  1.  1.  1.  1.  7.  7.  2.]
+ [ 4.  4.  1.  1.  1.  7.  2.  2.]
+ [ 4.  3.  3.  3.  3.  7.  2.  2.]
+ [ 3.  3.  6.  3.  6.  7.  5.  2.]
+ [ 3.  6.  6.  6.  6.  5.  5.  2.]
+ [ 3.  6.  6.  6.  5.  5.  5.  5.]]
+    
+Manager 0.
+             Initial Best: 3.66319179535 
+             Local Search Best: 2.83997035027
+             My solution looks like:
+    [[ 7.  7.  7.  3.  3.  3.  4.  4.]
+ [ 7.  3.  3.  3.  3.  4.  4.  4.]
+ [ 7.  1.  1.  3.  3.  3.  8.  4.]
+ [ 7.  7.  1.  1.  1.  1.  8.  4.]
+ [ 7.  6.  6.  6.  6.  1.  8.  8.]
+ [ 6.  6.  2.  6.  1.  1.  5.  8.]
+ [ 2.  2.  2.  2.  1.  5.  5.  8.]
+ [ 2.  2.  2.  5.  5.  5.  5.  8.]]
+    
+I have 8 cores in a shared memory space
+The local solutions on rank 1 are inferior to the global best p. Updating...
+My soln space looks like: [ 9.  9.  9.  9.  9.  9.  9.  9.]
+I am manager 0 and I initially had 9.0 regions.  I now have 9.0 regions.
+My soln space looks like: [ 9.  9.  9.  9.  9.  9.  9.  9.]
+I am manager 1 and I initially had 8.0 regions.  I now have 9.0 regions.
+Manager 0.
+             Initial Best: 4.01014852524 
+             Local Search Best: 3.92203235626
+             My solution looks like:
+    [[ 2.  2.  2.  8.  5.  5.  5.  5.]
+ [ 2.  2.  2.  8.  8.  5.  5.  5.]
+ [ 2.  8.  8.  8.  8.  6.  6.  6.]
+ [ 1.  1.  4.  4.  4.  6.  6.  6.]
+ [ 1.  1.  1.  1.  4.  9.  9.  6.]
+ [ 7.  1.  4.  4.  4.  9.  9.  9.]
+ [ 7.  7.  3.  3.  3.  3.  3.  9.]
+ [ 7.  7.  7.  7.  3.  3.  3.  9.]]
+    
+I have 8 cores in a shared memory space
+Manager 1.
+             Initial Best: 3.97150659561 
+             Local Search Best: 3.97150659561
+             My solution looks like:
+    [[ 8.  8.  8.  8.  8.  2.  2.  2.]
+ [ 8.  5.  5.  2.  2.  2.  1.  2.]
+ [ 8.  5.  5.  7.  7.  7.  1.  1.]
+ [ 4.  5.  5.  7.  7.  7.  1.  6.]
+ [ 4.  5.  9.  9.  7.  1.  1.  6.]
+ [ 4.  4.  4.  9.  9.  9.  1.  6.]
+ [ 4.  3.  4.  3.  9.  9.  9.  6.]
+ [ 3.  3.  3.  3.  3.  6.  6.  6.]]
+    
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 0 and I initially had 8.0 regions.  I now have 8.0 regions.
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 1 and I initially had 8.0 regions.  I now have 8.0 regions.
+Manager 0.
+             Initial Best: 3.72911930084 
+             Local Search Best: 3.39861536026
+             My solution looks like:
+    [[ 6.  6.  6.  6.  6.  6.  6.  3.]
+ [ 6.  6.  7.  4.  4.  3.  3.  3.]
+ [ 7.  7.  7.  4.  4.  4.  3.  3.]
+ [ 5.  7.  7.  7.  4.  4.  4.  3.]
+ [ 5.  5.  5.  5.  5.  8.  4.  4.]
+ [ 5.  5.  8.  8.  8.  8.  8.  8.]
+ [ 5.  2.  2.  2.  1.  1.  1.  1.]
+ [ 5.  2.  2.  2.  2.  1.  1.  1.]]
+    
+I have 8 cores in a shared memory space
+Manager 1.
+             Initial Best: 3.77268886566 
+             Local Search Best: 3.10459661484
+             My solution looks like:
+    [[ 4.  4.  4.  5.  5.  5.  5.  3.]
+ [ 4.  2.  4.  5.  5.  3.  3.  3.]
+ [ 4.  2.  4.  5.  5.  3.  7.  7.]
+ [ 8.  2.  4.  4.  6.  3.  1.  7.]
+ [ 8.  2.  2.  2.  6.  3.  1.  7.]
+ [ 8.  8.  6.  2.  6.  3.  1.  7.]
+ [ 8.  8.  6.  6.  6.  1.  1.  7.]
+ [ 8.  6.  6.  6.  1.  1.  1.  7.]]
+    
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 0 and I initially had 8.0 regions.  I now have 8.0 regions.
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 1 and I initially had 8.0 regions.  I now have 8.0 regions.
+Manager 1.
+             Initial Best: 3.98867678642 
+             Local Search Best: 3.36860513687
+             My solution looks like:
+    [[ 2.  2.  2.  5.  1.  1.  1.  6.]
+ [ 2.  5.  5.  5.  5.  1.  1.  6.]
+ [ 2.  2.  2.  3.  5.  5.  1.  6.]
+ [ 7.  7.  2.  3.  5.  6.  1.  6.]
+ [ 7.  3.  3.  3.  3.  6.  1.  6.]
+ [ 7.  7.  4.  3.  8.  6.  6.  6.]
+ [ 7.  7.  4.  4.  8.  8.  8.  6.]
+ [ 4.  4.  4.  4.  8.  8.  8.  6.]]
+    
+Manager 0.
+             Initial Best: 3.48247885704 
+             Local Search Best: 2.98004031181
+             My solution looks like:
+    [[ 3.  3.  3.  3.  3.  4.  4.  2.]
+ [ 3.  4.  4.  4.  4.  4.  2.  2.]
+ [ 3.  3.  3.  5.  5.  5.  2.  1.]
+ [ 7.  7.  3.  3.  5.  2.  2.  1.]
+ [ 7.  5.  5.  5.  5.  2.  1.  1.]
+ [ 7.  7.  6.  5.  8.  2.  8.  1.]
+ [ 7.  6.  6.  6.  8.  8.  8.  1.]
+ [ 7.  6.  6.  6.  8.  8.  8.  1.]]
+    
+I have 8 cores in a shared memory space
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 0 and I initially had 8.0 regions.  I now have 8.0 regions.
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 1 and I initially had 8.0 regions.  I now have 8.0 regions.
+Manager 0.
+             Initial Best: 3.58713698387 
+             Local Search Best: 3.19855523109
+             My solution looks like:
+    [[ 6.  6.  8.  3.  3.  3.  3.  1.]
+ [ 6.  6.  8.  3.  3.  1.  1.  1.]
+ [ 6.  8.  8.  3.  3.  3.  1.  1.]
+ [ 6.  6.  8.  8.  8.  4.  4.  1.]
+ [ 2.  7.  7.  7.  7.  4.  4.  4.]
+ [ 2.  7.  2.  7.  5.  4.  5.  4.]
+ [ 2.  2.  2.  7.  5.  5.  5.  4.]
+ [ 2.  2.  2.  7.  7.  5.  5.  4.]]
+    
+I have 8 cores in a shared memory space
+Manager 1.
+             Initial Best: 3.63178658485 
+             Local Search Best: 3.25438785553
+             My solution looks like:
+    [[ 7.  7.  7.  7.  7.  2.  2.  6.]
+ [ 7.  4.  4.  4.  4.  2.  6.  6.]
+ [ 7.  4.  2.  4.  2.  2.  6.  8.]
+ [ 4.  4.  2.  2.  2.  6.  6.  8.]
+ [ 4.  5.  5.  5.  5.  6.  8.  8.]
+ [ 5.  5.  1.  5.  3.  6.  3.  8.]
+ [ 1.  1.  1.  1.  3.  3.  3.  8.]
+ [ 1.  1.  1.  1.  3.  3.  3.  8.]]
+    
+My soln space looks like: [ 9.  9.  9.  9.  9.  9.  9.  9.]
+I am manager 0 and I initially had 9.0 regions.  I now have 9.0 regions.
+My soln space looks like: [ 9.  9.  9.  9.  9.  9.  9.  9.]
+I am manager 1 and I initially had 9.0 regions.  I now have 9.0 regions.
+Manager 0.
+             Initial Best: 4.03116369247 
+             Local Search Best: 4.03116369247
+             My solution looks like:
+    [[ 2.  2.  1.  1.  1.  1.  9.  9.]
+ [ 2.  2.  2.  1.  1.  1.  9.  6.]
+ [ 2.  2.  3.  3.  9.  9.  9.  6.]
+ [ 8.  8.  3.  3.  3.  6.  9.  6.]
+ [ 8.  8.  3.  3.  7.  6.  6.  6.]
+ [ 8.  4.  4.  3.  7.  7.  5.  5.]
+ [ 8.  4.  4.  4.  7.  7.  5.  5.]
+ [ 8.  4.  4.  7.  7.  5.  5.  5.]]
+    
+I have 8 cores in a shared memory space
+Manager 1.
+             Initial Best: 3.80720901489 
+             Local Search Best: 3.29682826996
+             My solution looks like:
+    [[ 1.  1.  1.  7.  3.  3.  3.  3.]
+ [ 1.  1.  1.  7.  7.  3.  3.  3.]
+ [ 2.  2.  1.  7.  7.  7.  5.  6.]
+ [ 2.  2.  2.  2.  7.  5.  5.  6.]
+ [ 2.  8.  8.  8.  8.  5.  5.  6.]
+ [ 8.  8.  9.  8.  5.  5.  6.  6.]
+ [ 9.  9.  9.  9.  4.  4.  4.  6.]
+ [ 9.  9.  9.  4.  4.  4.  4.  6.]]
+    
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 0 and I initially had 8.0 regions.  I now have 8.0 regions.
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 1 and I initially had 8.0 regions.  I now have 8.0 regions.
+Manager 1.
+             Initial Best: 3.881077528 
+             Local Search Best: 3.21634721756
+             My solution looks like:
+    [[ 3.  5.  5.  5.  5.  5.  5.  5.]
+ [ 3.  7.  7.  7.  7.  6.  6.  6.]
+ [ 3.  3.  3.  7.  7.  7.  6.  6.]
+ [ 3.  3.  3.  3.  3.  8.  8.  6.]
+ [ 3.  1.  1.  1.  1.  8.  8.  6.]
+ [ 2.  1.  1.  1.  8.  8.  4.  6.]
+ [ 2.  2.  2.  8.  8.  4.  4.  6.]
+ [ 2.  2.  2.  4.  4.  4.  4.  6.]]
+    
+Manager 0.
+             Initial Best: 3.90731406212 
+             Local Search Best: 2.89314341545
+             My solution looks like:
+    [[ 4.  4.  4.  1.  2.  2.  2.  2.]
+ [ 4.  1.  1.  1.  1.  2.  2.  2.]
+ [ 4.  4.  4.  1.  1.  1.  2.  2.]
+ [ 8.  7.  7.  7.  7.  7.  7.  7.]
+ [ 8.  8.  8.  8.  8.  3.  7.  7.]
+ [ 8.  8.  5.  8.  3.  3.  3.  3.]
+ [ 5.  5.  5.  5.  3.  6.  6.  3.]
+ [ 5.  5.  6.  6.  6.  6.  6.  3.]]
+    
+I have 8 cores in a shared memory space
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 0 and I initially had 8.0 regions.  I now have 8.0 regions.
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 1 and I initially had 8.0 regions.  I now have 8.0 regions.
+Manager 1.
+             Initial Best: 3.94860315323 
+             Local Search Best: 2.94564247131
+             My solution looks like:
+    [[ 2.  2.  2.  2.  2.  2.  2.  4.]
+ [ 2.  6.  6.  6.  6.  4.  4.  4.]
+ [ 1.  1.  1.  6.  6.  6.  4.  4.]
+ [ 1.  1.  1.  7.  7.  7.  5.  4.]
+ [ 1.  3.  3.  3.  3.  7.  5.  5.]
+ [ 3.  3.  8.  8.  8.  7.  5.  5.]
+ [ 3.  8.  8.  8.  7.  7.  8.  5.]
+ [ 3.  8.  8.  8.  8.  8.  8.  5.]]
+    
+Manager 0.
+             Initial Best: 3.68721914291 
+             Local Search Best: 3.05265212059
+             My solution looks like:
+    [[ 4.  4.  4.  4.  4.  4.  4.  8.]
+ [ 4.  4.  4.  4.  4.  8.  8.  8.]
+ [ 3.  3.  3.  4.  2.  2.  8.  8.]
+ [ 3.  3.  3.  3.  2.  2.  2.  8.]
+ [ 3.  6.  6.  6.  6.  1.  2.  2.]
+ [ 6.  6.  7.  6.  1.  1.  5.  5.]
+ [ 7.  7.  7.  1.  1.  1.  5.  5.]
+ [ 7.  7.  7.  1.  5.  5.  5.  5.]]
+    
+I have 8 cores in a shared memory space
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 0 and I initially had 8.0 regions.  I now have 8.0 regions.
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 1 and I initially had 8.0 regions.  I now have 8.0 regions.
+Manager 1.
+             Initial Best: 4.04526090622 
+             Local Search Best: 3.13645291328
+             My solution looks like:
+    [[ 6.  6.  6.  4.  4.  4.  4.  5.]
+ [ 6.  6.  6.  4.  4.  5.  5.  5.]
+ [ 1.  1.  6.  4.  4.  4.  5.  5.]
+ [ 1.  1.  1.  1.  4.  3.  5.  5.]
+ [ 1.  2.  2.  2.  2.  3.  5.  5.]
+ [ 2.  2.  2.  2.  7.  3.  3.  3.]
+ [ 8.  8.  2.  8.  7.  7.  7.  3.]
+ [ 8.  8.  8.  8.  7.  7.  7.  3.]]
+    
+Manager 0.
+             Initial Best: 3.37229275703 
+             Local Search Best: 2.93619918823
+             My solution looks like:
+    [[ 7.  6.  6.  6.  6.  6.  6.  5.]
+ [ 7.  7.  7.  6.  4.  5.  5.  5.]
+ [ 7.  3.  3.  4.  4.  4.  5.  5.]
+ [ 7.  3.  3.  3.  4.  8.  2.  5.]
+ [ 7.  7.  3.  4.  4.  8.  2.  5.]
+ [ 1.  7.  3.  4.  4.  8.  2.  5.]
+ [ 1.  1.  1.  8.  8.  8.  2.  5.]
+ [ 1.  1.  1.  8.  2.  2.  2.  5.]]
+    
+I have 8 cores in a shared memory space
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 0 and I initially had 8.0 regions.  I now have 8.0 regions.
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 1 and I initially had 8.0 regions.  I now have 8.0 regions.
+Manager 0.
+             Initial Best: 3.96929717064 
+             Local Search Best: 3.19501399994
+             My solution looks like:
+    [[ 7.  6.  6.  6.  6.  6.  6.  2.]
+ [ 7.  7.  7.  7.  6.  2.  2.  2.]
+ [ 1.  1.  1.  7.  7.  2.  2.  2.]
+ [ 5.  1.  1.  1.  1.  2.  4.  4.]
+ [ 5.  5.  5.  5.  5.  3.  3.  4.]
+ [ 5.  5.  8.  5.  3.  3.  4.  4.]
+ [ 8.  8.  8.  8.  3.  4.  4.  4.]
+ [ 8.  8.  3.  3.  3.  4.  4.  4.]]
+    
+I have 8 cores in a shared memory space
+Manager 1.
+             Initial Best: 3.91430449486 
+             Local Search Best: 2.97592782974
+             My solution looks like:
+    [[ 3.  3.  3.  3.  6.  6.  6.  6.]
+ [ 3.  3.  3.  3.  6.  7.  7.  7.]
+ [ 2.  2.  2.  3.  6.  6.  7.  7.]
+ [ 2.  2.  2.  2.  5.  5.  5.  7.]
+ [ 2.  1.  1.  1.  1.  5.  5.  7.]
+ [ 1.  1.  8.  1.  5.  5.  4.  7.]
+ [ 1.  8.  8.  8.  8.  4.  4.  7.]
+ [ 1.  8.  8.  4.  4.  4.  4.  7.]]
+    
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 0 and I initially had 8.0 regions.  I now have 8.0 regions.
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 1 and I initially had 8.0 regions.  I now have 8.0 regions.
+Manager 0.
+             Initial Best: 3.83037185669 
+             Local Search Best: 3.32080221176
+             My solution looks like:
+    [[ 6.  6.  6.  4.  5.  5.  5.  5.]
+ [ 6.  4.  4.  4.  4.  5.  5.  5.]
+ [ 6.  6.  6.  4.  4.  4.  5.  5.]
+ [ 1.  1.  6.  6.  2.  2.  2.  2.]
+ [ 1.  1.  7.  7.  7.  3.  2.  2.]
+ [ 1.  7.  7.  7.  7.  3.  2.  3.]
+ [ 1.  8.  8.  8.  3.  3.  3.  3.]
+ [ 1.  8.  8.  8.  8.  8.  8.  3.]]
+    
+I have 8 cores in a shared memory space
+Manager 1.
+             Initial Best: 3.94496250153 
+             Local Search Best: 2.35087370872
+             My solution looks like:
+    [[ 4.  7.  7.  7.  7.  7.  7.  7.]
+ [ 4.  1.  1.  1.  1.  3.  3.  3.]
+ [ 4.  4.  4.  1.  1.  1.  3.  3.]
+ [ 5.  5.  4.  4.  1.  8.  6.  3.]
+ [ 2.  5.  5.  5.  5.  8.  6.  3.]
+ [ 2.  5.  2.  5.  8.  8.  6.  3.]
+ [ 2.  2.  2.  8.  8.  6.  6.  3.]
+ [ 2.  8.  8.  8.  6.  6.  6.  3.]]
+    
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 0 and I initially had 8.0 regions.  I now have 8.0 regions.
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 1 and I initially had 8.0 regions.  I now have 8.0 regions.
+Manager 1.
+             Initial Best: 3.74139165878 
+             Local Search Best: 3.06179189682
+             My solution looks like:
+    [[ 1.  1.  1.  8.  2.  2.  2.  2.]
+ [ 1.  8.  8.  8.  8.  2.  2.  2.]
+ [ 1.  1.  5.  8.  8.  8.  2.  5.]
+ [ 4.  1.  5.  5.  5.  5.  5.  5.]
+ [ 4.  4.  4.  4.  4.  3.  3.  3.]
+ [ 4.  4.  7.  4.  6.  3.  6.  3.]
+ [ 7.  7.  7.  7.  6.  6.  6.  3.]
+ [ 7.  7.  7.  7.  6.  6.  6.  3.]]
+    
+Manager 0.
+             Initial Best: 3.86455559731 
+             Local Search Best: 3.26907038689
+             My solution looks like:
+    [[ 8.  5.  5.  5.  5.  5.  5.  4.]
+ [ 8.  5.  5.  5.  5.  4.  4.  4.]
+ [ 8.  8.  8.  7.  5.  5.  4.  4.]
+ [ 6.  8.  8.  7.  7.  7.  7.  4.]
+ [ 6.  6.  6.  6.  6.  3.  7.  1.]
+ [ 2.  2.  2.  6.  6.  3.  7.  1.]
+ [ 2.  2.  2.  3.  3.  3.  1.  1.]
+ [ 2.  3.  3.  3.  1.  1.  1.  1.]]
+    
+I have 8 cores in a shared memory space
+The local solutions on rank 0 are inferior to the global best p. Updating...
+My soln space looks like: [ 9.  9.  9.  9.  9.  9.  9.  9.]
+I am manager 0 and I initially had 8.0 regions.  I now have 9.0 regions.
+My soln space looks like: [ 9.  9.  9.  9.  9.  9.  9.  9.]
+I am manager 1 and I initially had 9.0 regions.  I now have 9.0 regions.
+Manager 0.
+             Initial Best: 4.19169855118 
+             Local Search Best: 4.04060077667
+             My solution looks like:
+    [[ 9.  3.  3.  3.  6.  6.  2.  2.]
+ [ 9.  3.  7.  3.  3.  6.  2.  2.]
+ [ 9.  3.  7.  7.  6.  6.  2.  2.]
+ [ 9.  7.  7.  7.  7.  6.  6.  2.]
+ [ 9.  5.  5.  5.  5.  5.  5.  5.]
+ [ 9.  9.  4.  1.  1.  8.  8.  8.]
+ [ 4.  4.  4.  1.  8.  8.  1.  8.]
+ [ 4.  4.  4.  1.  1.  1.  1.  8.]]
+    
+I have 8 cores in a shared memory space
+Manager 1.
+             Initial Best: 4.15581846237 
+             Local Search Best: 4.00864839554
+             My solution looks like:
+    [[ 7.  7.  7.  6.  6.  6.  6.  6.]
+ [ 7.  3.  7.  7.  3.  3.  6.  6.]
+ [ 7.  3.  3.  3.  3.  5.  5.  5.]
+ [ 1.  9.  9.  9.  9.  9.  5.  5.]
+ [ 1.  1.  1.  1.  1.  9.  5.  5.]
+ [ 1.  2.  2.  1.  2.  9.  8.  8.]
+ [ 4.  4.  2.  2.  2.  2.  8.  8.]
+ [ 4.  4.  4.  4.  4.  8.  8.  8.]]
+    
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 0 and I initially had 8.0 regions.  I now have 8.0 regions.
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 1 and I initially had 8.0 regions.  I now have 8.0 regions.
+Manager 1.
+             Initial Best: 3.50811767578 
+             Local Search Best: 2.90923023224
+             My solution looks like:
+    [[ 7.  4.  4.  4.  4.  4.  4.  5.]
+ [ 7.  4.  3.  3.  3.  8.  8.  5.]
+ [ 7.  7.  7.  3.  3.  3.  8.  5.]
+ [ 7.  7.  7.  7.  3.  8.  8.  5.]
+ [ 7.  2.  2.  2.  2.  8.  5.  5.]
+ [ 2.  2.  6.  2.  8.  8.  1.  5.]
+ [ 2.  6.  6.  6.  8.  1.  1.  5.]
+ [ 2.  6.  6.  6.  1.  1.  1.  1.]]
+    
+Manager 0.
+             Initial Best: 3.66941332817 
+             Local Search Best: 2.5086312294
+             My solution looks like:
+    [[ 6.  6.  6.  3.  3.  3.  3.  8.]
+ [ 6.  3.  3.  3.  3.  8.  8.  8.]
+ [ 6.  6.  6.  3.  3.  3.  8.  8.]
+ [ 4.  4.  6.  7.  7.  7.  7.  8.]
+ [ 1.  4.  4.  4.  4.  7.  7.  7.]
+ [ 1.  4.  1.  4.  2.  2.  2.  2.]
+ [ 1.  1.  1.  5.  2.  5.  5.  2.]
+ [ 1.  1.  1.  5.  5.  5.  5.  2.]]
+    
+I have 8 cores in a shared memory space
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 0 and I initially had 8.0 regions.  I now have 8.0 regions.
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 1 and I initially had 8.0 regions.  I now have 8.0 regions.
+Manager 0.
+             Initial Best: 4.11122655869 
+             Local Search Best: 3.46847271919
+             My solution looks like:
+    [[ 4.  4.  4.  3.  7.  7.  7.  7.]
+ [ 4.  3.  3.  3.  3.  7.  7.  7.]
+ [ 4.  4.  4.  3.  3.  3.  7.  7.]
+ [ 8.  1.  1.  1.  1.  6.  2.  2.]
+ [ 8.  8.  8.  8.  1.  6.  2.  2.]
+ [ 8.  8.  5.  1.  1.  6.  2.  2.]
+ [ 8.  5.  5.  5.  6.  6.  2.  6.]
+ [ 8.  5.  5.  5.  5.  6.  6.  6.]]
+    
+I have 8 cores in a shared memory space
+Manager 1.
+             Initial Best: 3.7019636631 
+             Local Search Best: 3.04172873497
+             My solution looks like:
+    [[ 4.  4.  4.  6.  6.  6.  6.  3.]
+ [ 4.  6.  6.  6.  6.  3.  3.  3.]
+ [ 4.  4.  4.  6.  6.  5.  3.  3.]
+ [ 1.  2.  2.  2.  5.  5.  5.  3.]
+ [ 1.  1.  2.  5.  5.  8.  8.  8.]
+ [ 1.  1.  2.  5.  7.  8.  7.  8.]
+ [ 1.  2.  2.  2.  7.  7.  7.  8.]
+ [ 1.  2.  2.  2.  7.  7.  7.  8.]]
+    
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 0 and I initially had 8.0 regions.  I now have 8.0 regions.
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 1 and I initially had 8.0 regions.  I now have 8.0 regions.
+Manager 1.
+             Initial Best: 3.87216734886 
+             Local Search Best: 3.01914048195
+             My solution looks like:
+    [[ 2.  2.  2.  2.  4.  4.  4.  1.]
+ [ 2.  2.  2.  2.  2.  4.  1.  1.]
+ [ 5.  5.  5.  2.  4.  4.  1.  1.]
+ [ 5.  5.  5.  5.  4.  6.  1.  1.]
+ [ 5.  8.  8.  8.  8.  6.  6.  6.]
+ [ 8.  8.  3.  8.  7.  6.  7.  6.]
+ [ 8.  3.  3.  3.  7.  7.  7.  6.]
+ [ 8.  3.  3.  3.  7.  7.  7.  6.]]
+    
+Manager 0.
+             Initial Best: 3.59806728363 
+             Local Search Best: 2.87891459465
+             My solution looks like:
+    [[ 1.  1.  1.  1.  8.  8.  8.  4.]
+ [ 1.  2.  1.  1.  8.  4.  4.  4.]
+ [ 2.  2.  2.  8.  8.  8.  8.  4.]
+ [ 7.  2.  2.  2.  8.  5.  8.  4.]
+ [ 7.  7.  7.  7.  7.  5.  5.  4.]
+ [ 7.  7.  6.  6.  6.  5.  3.  4.]
+ [ 6.  6.  6.  5.  5.  5.  3.  4.]
+ [ 6.  6.  3.  3.  3.  3.  3.  4.]]
+    
+I have 8 cores in a shared memory space
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 0 and I initially had 8.0 regions.  I now have 8.0 regions.
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 1 and I initially had 8.0 regions.  I now have 8.0 regions.
+Manager 0.
+             Initial Best: 3.98536491394 
+             Local Search Best: 3.46058821678
+             My solution looks like:
+    [[ 8.  8.  7.  1.  1.  1.  1.  3.]
+ [ 8.  8.  7.  1.  1.  3.  3.  3.]
+ [ 8.  7.  7.  1.  1.  3.  3.  5.]
+ [ 8.  7.  7.  7.  1.  3.  5.  5.]
+ [ 8.  6.  6.  6.  6.  5.  5.  4.]
+ [ 6.  6.  2.  6.  5.  5.  4.  4.]
+ [ 2.  2.  2.  4.  4.  4.  4.  4.]
+ [ 2.  2.  2.  2.  2.  4.  4.  4.]]
+    
+I have 8 cores in a shared memory space
+Manager 1.
+             Initial Best: 3.86396336555 
+             Local Search Best: 3.20372986794
+             My solution looks like:
+    [[ 5.  5.  5.  7.  7.  7.  7.  8.]
+ [ 5.  7.  7.  7.  7.  8.  8.  8.]
+ [ 5.  5.  5.  7.  7.  7.  8.  8.]
+ [ 2.  3.  3.  3.  3.  3.  3.  8.]
+ [ 2.  2.  4.  4.  4.  6.  3.  1.]
+ [ 2.  2.  4.  4.  6.  6.  1.  1.]
+ [ 2.  4.  4.  6.  6.  1.  1.  1.]
+ [ 2.  6.  6.  6.  1.  1.  1.  1.]]
+    
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 0 and I initially had 8.0 regions.  I now have 8.0 regions.
+My soln space looks like: [ 8.  8.  8.  8.  8.  8.  8.  8.]
+I am manager 1 and I initially had 8.0 regions.  I now have 8.0 regions.
+Manager 1.
+             Initial Best: 3.79639410973 
+             Local Search Best: 3.12849974632
+             My solution looks like:
+    [[ 2.  2.  2.  6.  5.  5.  5.  5.]
+ [ 2.  6.  6.  6.  6.  7.  7.  5.]
+ [ 2.  2.  2.  6.  6.  6.  7.  5.]
+ [ 3.  2.  2.  2.  1.  7.  7.  5.]
+ [ 3.  3.  3.  3.  1.  7.  4.  5.]
+ [ 3.  3.  8.  3.  1.  7.  4.  4.]
+ [ 3.  8.  8.  8.  1.  1.  1.  4.]
+ [ 3.  8.  8.  8.  1.  4.  4.  4.]]
+    
+[ 3.68115115  3.3341825   3.5080471   3.62887597  3.91645122  3.69381857
+  4.04248857  3.70803285  3.94592118  3.62645125  3.74712086  3.77410769
+  3.9230442   4.07424736  3.97226954  3.90911365  3.94195008  3.65756035
+  3.71418571  3.6365242   4.0069561   4.07466555  3.52476263  4.11770535
+  3.5250473   3.59541702  3.74054861  4.16141605  3.83649945  3.77897906
+  3.77608347  3.97966886  3.74216175  3.93365812  3.75131106  3.6572721
+  3.55422544  3.82553411  3.79901576  3.89155126  3.67503238  3.91656756
+  3.94721317  3.65394044  4.03889179  3.8250773   3.66025662  3.9569397
+  3.78323412  3.65890622  3.87249756  3.24094868  3.53291559  3.84908795
+  3.55367851  3.85661077  3.7680738   3.76713896  3.47799635  3.97712326
+  3.83401084  3.9353981   3.47337389  3.82078362  3.94565678  4.0143013
+  3.72014952  3.6056993   3.70983768  4.00098848  3.62215328  3.83654547
+  3.55542088  3.65027356  3.48145318  4.18131447  3.92899013  4.12000561
+  3.86446905  4.08208847  3.82882762  3.80656743  4.02458382  3.9715066
+  3.77268887  3.98867679  3.63178658  3.80720901  3.88107753  3.94860315
+  4.04526091  3.91430449  3.9449625   3.74139166  4.15581846  3.50811768
+  3.70196366  3.87216735  3.86396337  3.79639411]
+[ 3.62345862  2.81104422  3.01564503  3.03762412  3.66580534  3.22366738
+  3.04795599  3.70803285  2.79149389  3.57693076  2.74926972  3.16815925
+  3.76041675  3.34014487  2.70029783  3.56382942  3.39998388  2.83801889
+  3.13628078  2.9715333   4.0069561   3.42991638  3.3076539   3.42424679
+  2.87441158  3.59541702  2.96670198  3.25675416  3.17678928  3.77897906
+  2.70303392  3.35755372  2.67474294  3.78060246  3.75131106  2.90107632
+  3.00067091  3.38117528  2.96521997  3.87797523  3.13903522  2.71758056
+  3.55082893  2.71756196  3.48336387  3.21667194  3.66025662  3.06076956
+  3.66815615  3.36594272  3.42908335  2.73960066  3.34577012  3.08334732
+  3.04472971  3.17918801  2.71946812  2.93420124  3.15987539  2.98737383
+  2.89665174  2.75321913  3.38286185  3.01541591  3.89176154  3.23168921
+  3.72014952  3.56484747  3.34272289  4.00098848  3.15141582  2.93655038
+  3.24189973  3.65027356  3.10909796  3.37973976  3.92899013  4.12000561
+  3.27115655  3.21747136  2.67050242  3.01715565  3.09094977  3.9715066
+  3.10459661  3.36860514  3.25438786  3.29682827  3.21634722  2.94564247
+  3.13645291  2.97592783  2.35087371  3.0617919   4.0086484   2.90923023
+  3.04172873  3.01914048  3.20372987  3.12849975]
+[ 9.  8.  8.  8.  9.  8.  9.  9.  8.  9.  8.  8.  9.  8.  8.  9.  8.  8.
+  8.  8.  9.  9.  8.  8.  8.  9.  8.  8.  8.  9.  8.  8.  8.  9.  9.  8.
+  8.  8.  8.  9.  8.  8.  9.  8.  9.  8.  9.  8.  9.  9.  8.  8.  8.  8.
+  8.  8.  8.  8.  8.  8.  8.  8.  9.  8.  9.  8.  9.  9.  9.  9.  8.  8.
+  8.  9.  8.  8.  9.  9.  8.  8.  8.  8.  8.  9.  8.  8.  8.  9.  8.  8.
+  8.  8.  8.  8.  9.  8.  8.  8.  8.  8.]
+Manager 0.
+             Initial Best: 3.74535012245 
+             Local Search Best: 3.10750412941
+             My solution looks like:
+    [[ 6.  2.  2.  4.  4.  4.  4.  7.]
+ [ 6.  6.  2.  4.  4.  7.  7.  7.]
+ [ 6.  2.  2.  4.  4.  7.  7.  5.]
+ [ 6.  6.  2.  2.  4.  7.  5.  5.]
+ [ 6.  1.  1.  1.  1.  7.  5.  5.]
+ [ 1.  1.  8.  1.  5.  5.  5.  5.]
+ [ 8.  8.  8.  8.  5.  3.  3.  5.]
+ [ 8.  8.  3.  3.  3.  3.  3.  5.]]
+    
+[ 3.64436913  3.85685802  4.01592255  3.69608212  3.96083331  3.75309062
+  3.96161008  3.71208286  3.96968555  3.62645125  3.63128257  3.94941139
+  3.9230442   3.87567067  3.58752537  3.90911365  3.81098533  3.94330454
+  3.8615706   3.9200778   4.0069561   4.07995129  3.90587902  3.94495106
+  3.67747569  3.5819242   3.79678369  3.76126003  3.74337935  3.76118088
+  4.15564585  3.95487309  4.04275274  4.02005434  3.75220323  3.81145597
+  3.83818531  3.73340559  3.60807657  3.89155126  3.97925138  3.90820098
+  3.94721317  3.69157767  4.03362703  3.6768012   4.01219893  3.87483263
+  3.77126908  3.70061135  3.69857621  4.01538467  4.05406618  4.17010117
+  3.56739998  3.89769721  3.67240405  3.85647964  3.5008502   3.7445786
+  4.00647974  3.87206244  3.47337389  3.63228607  4.00356102  3.35414195
+  3.54604006  3.8365798   3.68374372  4.00098848  3.91995907  3.96580625
+  3.93758035  3.63716936  3.86669278  4.14192486  3.92899013  4.0509181
+  3.79396248  4.04938316  3.9975431   3.72078228  3.6631918   4.01014853
+  3.7291193   3.48247886  3.58713698  4.03116369  3.90731406  3.68721914
+  3.37229276  3.96929717  3.83037186  3.8645556   4.19169855  3.66941333
+  4.11122656  3.59806728  3.98536491  3.74535012]
+[ 3.64436913  3.10265827  3.19556403  3.21278977  3.2552526   3.22269964
+  3.46681952  3.71208286  2.61672187  3.62645125  3.00227308  2.6100862
+  3.76041675  3.32903719  2.80502915  3.40405583  2.68417645  3.22917557
+  3.09052467  3.06737351  3.98928237  4.07995129  3.15500402  3.00897813
+  3.06972384  2.91863561  2.90598226  2.93578339  3.19353032  3.48756981
+  2.70222974  3.1576426   2.86502385  4.02005434  3.45708513  3.15905046
+  3.22454786  3.15252495  3.12144208  3.87797523  2.9328649   3.11211729
+  3.94721317  2.85258985  3.04710293  3.0163188   3.85825157  2.91256618
+  3.77126908  3.57313013  3.08313084  2.94710517  3.01539922  3.18710399
+  3.06334472  3.17678952  3.2397759   3.10720134  3.05575204  3.40899777
+  3.36489987  3.145751    3.38286185  3.24815035  3.41265535  2.98586822
+  3.54604006  3.55525279  3.14513993  4.00098848  3.11481333  3.11093378
+  3.05973816  3.63716936  3.2042973   3.14575362  3.92899013  3.75573611
+  2.95913935  2.8187108   2.90236282  2.95869327  2.83997035  3.92203236
+  3.39861536  2.98004031  3.19855523  4.03116369  2.89314342  3.05265212
+  2.93619919  3.195014    3.32080221  3.26907039  4.04060078  2.50863123
+  3.46847272  2.87891459  3.46058822  3.10750413]
+[ 9.  8.  8.  8.  9.  8.  9.  9.  8.  9.  8.  8.  9.  8.  8.  9.  8.  8.
+  8.  8.  9.  9.  8.  8.  8.  9.  8.  8.  8.  9.  8.  8.  8.  9.  9.  8.
+  8.  8.  8.  9.  8.  8.  9.  8.  9.  8.  9.  8.  9.  9.  8.  8.  8.  8.
+  8.  8.  8.  8.  8.  8.  8.  8.  9.  8.  9.  8.  9.  9.  9.  9.  8.  8.
+  8.  9.  8.  8.  9.  9.  8.  8.  8.  8.  8.  9.  8.  8.  8.  9.  8.  8.
+  8.  8.  8.  8.  9.  8.  8.  8.  8.  8.]

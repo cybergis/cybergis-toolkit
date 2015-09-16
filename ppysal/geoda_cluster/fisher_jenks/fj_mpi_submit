@@ -1,0 +1,11 @@
+#!/bin/bash
+#PBS -S /bin/bash
+#PBS -l nodes=65:ppn=8
+#PBS -N FJ_Sample
+#PBS -o $JOB_ID.out
+#PBS -e $JOB_ID.err
+#PBS -A James_EnergyPlus
+#PBS -l walltime=04:00:00
+use openmpi-1.6.4
+cd /home/jlaura/fj_sampling/src
+mpirun -np 1 python fj_mpi.py 520 1>output 2>error

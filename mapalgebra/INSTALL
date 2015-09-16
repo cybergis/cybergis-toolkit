@@ -1,0 +1,28 @@
+Map Algebra uses the CMake to build, test, and install. CMake must be
+installed on your system.  Most linux systems provide a verion of CMake
+but you can check http://cmake.org for directions on installing CMake
+on your system.
+
+Map Algebra also requires MPI (http://mpich.org) and GDAL (http://gdal.org)
+libraries to be installed. See the respective websites for instruction on
+installing these packages on your system. In most cases CMake will 
+automatically detect and use the libraries once they are installed on your
+stystem.
+
+Once CMake has been installed, the following commands can be used to
+build Map Algebra. The commands provided below build in a seperate
+directory from the source files.  
+
+  $ mkdir build
+  $ cd build
+  $ cmake ..
+  $ make
+  $ make install
+
+This will install two executables, mapalg and mapalg-kernel on your system
+in /usr/local/bin. If you wish to install in a different directory you
+may specify it on the cmake command line. Example use the following
+to command to install in your home directory bin directory.
+
+  $cmake -DCMAKE_INSTALL_PREFIX=~ ../src
+
