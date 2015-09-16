@@ -16,20 +16,19 @@ XSEDE-based evaluation and testing of software performance, scalability, and por
 3. [pRasterBlaster](http://cybergis.cigi.uiuc.edu/cyberGISwiki/doku.php/ct/prasterblaster). pRasterBlaster is a high-performance map reprojection software contributed by the Center of Excellence for Geospatial Information Science ([CEGIS](http://cegis.usgs.gov/)) within the [U.S. Geological Survey](http://usgs.gov/);
 4. [PGAP](http://cybergis.cigi.uiuc.edu/cyberGISwiki/doku.php/ct/pgap). PGAP is a scalable Parallel Genetical Algorithm (PGA) solver for the Generalized Assignment Problem (GAP). This code provides an efficient PGA implementation for combinatorial optimization problem-solving and scaled up to 262K processor cores on BlueWaters with marginal communcation cost.
 5. [Parallel Agent-Based Modeling (PABM)](http://cybergis.cigi.uiuc.edu/cyberGISwiki/doku.php/ct/pabm). PABM is an illustrative software for scalable spatially explicit agent-based modeling (ABM);
-
-##Software Components Being Integrated
-
-1. ScalaGAHealth (Scalable Geographic Analytics for Health-Related Data)
-2. SpatialEvo (A high-performance evolutionary computing library for solving complex spatial optimization problems)
+6. [gKDE](http://cybergis.cigi.uiuc.edu/cyberGISwiki/doku.php/ct/gkde). A multi-GPU code for data-intensive kernel density estimation (KDE). Spatial computational domain is first estimated for KDE. Then the study area is decompose into sub-regions through an adaptive partitioning approach. Each sub-region is processed by a GPU node. These GPU nodes are communicated through massage passing interface (MPI).
+7. [mapalgebra](http://cybergis.cigi.uiuc.edu/cyberGISwiki/doku.php/ct/mapalgebra). This package contains a parallel map algebra code using CUDA, MPI, and Parallel I/O. It is extracted from a parallel geospatial programming models training package.
+8. [SPTW](http://cybergis.cigi.uiuc.edu/cyberGISwiki/doku.php/ct/sptw). This is a parallel IO code for writing GeoTIFF file on a parallel file system.
 
 ##Copyright and License
 
 Each software component integrated in CyberGIS Toolkit is open source and has its own copyright and license.
 - TauDEM: Please refer to [TauDEM](http://hydrology.usu.edu/taudem/) website
 - Parallel PySAL: [BSD](http://opensource.org/licenses/BSD-3-Clause)
-- pRasterBlaster: [GPL v3](http://opensource.org/licenses/gpl-3.0)
 - PGAP: [NCSA open source license](http://opensource.org/licenses/NCSA)
 - PABM: [NCSA open source license](http://opensource.org/licenses/NCSA)
+- gKDE: [NCSA open source license](http://opensource.org/licenses/NCSA)
+- mapalgebra: [NCSA open source license](http://opensource.org/licenses/NCSA)
 
 ##Contact
 
