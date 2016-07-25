@@ -8,10 +8,6 @@
 #include <stdlib.h>
 #include <cuda.h>
 
-//Yizhao Test
-#include <sys/time.h>
-#include "emptyKernel.cu"
-
 #define BLOCKSIZE 16
 
 __global__ void kdeKernel(float * dDensity, float * dX, float * dY, int * dIndex, int nXCell, int nYCell, float xMin, float yMax, float cellSize, float bandwidth2, int blockBandwidth)
@@ -88,17 +84,9 @@ float * performKDE(float * xCor, float * yCor, int nPoints, int * pointIndex, in
 {
 	cudaError_t err;
 
-//Yizhao Test
 	dim3 dimBlock (BLOCKSIZE, BLOCKSIZE);
 	dim3 dimGrid (gridX, gridY);
 
-	emptyKernel<<<dimGrid,dimBlock>>>();
-	cudaDeviceSynchronize();
-	//printf("Blockbandwidth: %d\n", blockBandwidth);
-
-	struct timeval tBegin;
-	struct timeval tEnd;
-	gettimeofday(&tBegin, NULL);
 	float * myDensity;
 	
 	if(NULL == (myDensity = (float *) malloc(sizeof(float) * cellX * cellY)))
@@ -162,7 +150,7 @@ float * performKDE(float * xCor, float * yCor, int nPoints, int * pointIndex, in
 	}
 
 
-	//Kernel is here
+	//KDE kernel
 	kdeKernel<<<dimGrid,dimBlock>>>(dDensity, dX, dY, dIndex, cellX, cellY, xMin, yMax, cellSize, bandwidth * bandwidth, blockBandwidth);
 
 	err = cudaMemcpy(myDensity, dDensity, sizeof(float) * cellX * cellY, cudaMemcpyDeviceToHost);
@@ -177,10 +165,6 @@ float * performKDE(float * xCor, float * yCor, int nPoints, int * pointIndex, in
 
 	cudaFree(dX);
 	cudaFree(dY);
-
-//Test Yizhao
-	gettimeofday(&tEnd, NULL);	
-	printf("$$$$$$$ KDE on this node:\t%lfms\n", ((&tEnd)->tv_sec - (&tBegin)->tv_sec) * 1000 + (double)((&tEnd)->tv_usec - (&tBegin)->tv_usec) / 1000);
 
 	return myDensity;
 }
