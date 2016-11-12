@@ -8,7 +8,7 @@ This is a PGA application that uses MPI non-blocking functions for migrating sol
 
 ## Dependency
   - MPI: OpenMPI/MPICH/MVAPICH2/Cray MPI
-  - SPRNG: a parallel random number generator (http://www.sprng.org/). Environment variable ```$SPRNG_HOME``` must be set to the path to sprng. sprng must be compiled with MPI support.
+  - SPRNG: a parallel random number generator (http://www.sprng.org/). Environment variable ```$SPRNG_HOME``` must be set to the path to sprng. sprng must be compiled with MPI support. Need to use SPRNG2.0 (http://www.sprng.org/Version2.0/index.html)
 
 ## Compile
 make clean; make
