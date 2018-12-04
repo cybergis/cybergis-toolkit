@@ -1,0 +1,3 @@
+[submodule "OpenCLC"]
+	path = OpenCLC
+	url = https://github.com/lstanski/OpenCLC.git
