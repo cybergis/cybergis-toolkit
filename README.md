@@ -1,6 +1,11 @@
-#CyberGIS Toolkit
+# CyberGIS Toolkit
 
-##Introduciton
+## Publications
+
+Li, T., Stanislawski, L.V., Brockmeyer, T, Wang, S., and Shavers, E. (2020) “OpenCLC: An Open-Source Software Tool for Similarity Assessment of Linear Hydrographic Features”. SoftwareX, DOI:[10.1016/j.softx.2020.100401](https://doi.org/10.1016/j.softx.2020.100401)
+
+
+## Introduciton
 
 CyberGIS Toolkit is a suite of loosely coupled open-source geospatial software components that provide computationally scalable spatial analysis and modeling capabilities enabled by advanced cyberinfrastructure. CyberGIS Toolkit represents a deep approach to CyberGIS software integration research and development and is one of the three key pillars of the CyberGIS software environment, along with [CyberGIS Gateway](http://gateway.cigi.illinois.edu/home/) and [GISolve Middleware](http://www.cigi.illinois.edu/dokuwiki/doku.php/projects/gisolve/index). The integration approach to building CyberGIS Toolkit is focused on developing and leveraging innovative computational strategies needed to solve computing- and data-intensive geospatial problems by exploiting high-end cyberinfrastructure resources such as supercomputing resources provided by the NSF Extreme Science and Engineering Discovery Environment ([XSEDE](http://xsede.org/)) and high-throughput computing resources on the Open Science Grid ([OSG](http://opensciencegrid.org/)). 
 
@@ -9,7 +14,7 @@ Local build and test by software researchers and developers using continuous int
 Continuous integration testing, portability testing, small-scale scalability testing on the National Middleware Initiative ([NMI](http://batlab.org/)) build and test facility; and
 XSEDE-based evaluation and testing of software performance, scalability, and portability. By leveraging the high-performance computing expertise in the integration team of the NSF CyberGIS Project, large-scale problem-solving tests are conducted on various supercomputing environments on XSEDE to identify potential computational bottlenecks and achieve maximum problem-solving capabilities of each software installation.
 
-##Software Components
+## Software Components
 
 1. [TauDEM](https://github.com/dtarb/TauDEM). [TauDEM](http://hydrology.usu.edu/taudem/) (Terrain Analysis Using Digital Elevation Models) is a suite of high-performance Digital Elevation Model (DEM) tools for watershed delineation and the extraction and analysis of hydrologic information from topography as represented by a Digital Elevation Model.
 2. [Parallel PySAL](http://cybergis.cigi.uiuc.edu/cyberGISwiki/doku.php/ct/ppysal). The Parallel [PySAL](http://pysal.org/) library provides a set of scalable PySAL functions. Currently, parallel PySAL components implemented using the multiprocessing python library. The Fisher-Jenks classification algorithm is integrated in the toolkit;
@@ -20,7 +25,7 @@ XSEDE-based evaluation and testing of software performance, scalability, and por
 7. [mapalgebra](http://cybergis.cigi.uiuc.edu/cyberGISwiki/doku.php/ct/mapalgebra). This package contains a parallel map algebra code using CUDA, MPI, and Parallel I/O. It is extracted from a parallel geospatial programming models training package.
 8. [SPTW](http://cybergis.cigi.uiuc.edu/cyberGISwiki/doku.php/ct/sptw). This is a parallel IO code for writing GeoTIFF file on a parallel file system.
 
-##Copyright and License
+## Copyright and License
 
 Each software component integrated in CyberGIS Toolkit is open source and has its own copyright and license.
 - TauDEM: Please refer to [TauDEM](http://hydrology.usu.edu/taudem/) website
@@ -30,6 +35,6 @@ Each software component integrated in CyberGIS Toolkit is open source and has it
 - gKDE: [NCSA open source license](http://opensource.org/licenses/NCSA)
 - mapalgebra: [NCSA open source license](http://opensource.org/licenses/NCSA)
 
-##Contact
+## Contact
 
 If you have any questions about CyberGIS Toolkit, please contact CyberGIS Helpdesk (help@cybergis.org).
